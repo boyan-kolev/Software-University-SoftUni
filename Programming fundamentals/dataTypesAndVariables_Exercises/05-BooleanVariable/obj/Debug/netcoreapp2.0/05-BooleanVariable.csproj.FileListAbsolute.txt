@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\bin\Debug\netcoreapp2.0\05-BooleanVariable.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\bin\Debug\netcoreapp2.0\05-BooleanVariable.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\bin\Debug\netcoreapp2.0\05-BooleanVariable.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\bin\Debug\netcoreapp2.0\05-BooleanVariable.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\bin\Debug\netcoreapp2.0\05-BooleanVariable.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\obj\Debug\netcoreapp2.0\05-BooleanVariable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\obj\Debug\netcoreapp2.0\05-BooleanVariable.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\obj\Debug\netcoreapp2.0\05-BooleanVariable.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\obj\Debug\netcoreapp2.0\05-BooleanVariable.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\05-BooleanVariable\obj\Debug\netcoreapp2.0\05-BooleanVariable.pdb

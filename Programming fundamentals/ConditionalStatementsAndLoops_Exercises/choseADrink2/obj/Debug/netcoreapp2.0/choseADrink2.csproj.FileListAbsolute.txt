@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\bin\Debug\netcoreapp2.0\choseADrink2.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\bin\Debug\netcoreapp2.0\choseADrink2.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\bin\Debug\netcoreapp2.0\choseADrink2.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\bin\Debug\netcoreapp2.0\choseADrink2.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\bin\Debug\netcoreapp2.0\choseADrink2.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\obj\Debug\netcoreapp2.0\choseADrink2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\obj\Debug\netcoreapp2.0\choseADrink2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\obj\Debug\netcoreapp2.0\choseADrink2.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\obj\Debug\netcoreapp2.0\choseADrink2.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\choseADrink2\obj\Debug\netcoreapp2.0\choseADrink2.pdb

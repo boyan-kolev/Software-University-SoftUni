@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\bin\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\14-IntegerToHexAndBinary\obj\Debug\netcoreapp2.0\14-IntegerToHexAndBinary.pdb

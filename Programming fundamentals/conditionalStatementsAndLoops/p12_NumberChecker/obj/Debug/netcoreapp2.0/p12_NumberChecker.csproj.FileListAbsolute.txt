@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\bin\Debug\netcoreapp2.0\p12_NumberChecker.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\bin\Debug\netcoreapp2.0\p12_NumberChecker.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\bin\Debug\netcoreapp2.0\p12_NumberChecker.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\bin\Debug\netcoreapp2.0\p12_NumberChecker.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\bin\Debug\netcoreapp2.0\p12_NumberChecker.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\obj\Debug\netcoreapp2.0\p12_NumberChecker.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\obj\Debug\netcoreapp2.0\p12_NumberChecker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\obj\Debug\netcoreapp2.0\p12_NumberChecker.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\obj\Debug\netcoreapp2.0\p12_NumberChecker.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\obj\Debug\netcoreapp2.0\p12_NumberChecker.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p12_NumberChecker\obj\Debug\netcoreapp2.0\p12_NumberChecker.pdb

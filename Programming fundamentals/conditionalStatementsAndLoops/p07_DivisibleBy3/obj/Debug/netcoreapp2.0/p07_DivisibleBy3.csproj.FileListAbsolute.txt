@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\netcoreapp2.0\p07_DivisibleBy3.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\netcoreapp2.0\p07_DivisibleBy3.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\netcoreapp2.0\p07_DivisibleBy3.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\netcoreapp2.0\p07_DivisibleBy3.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\bin\Debug\netcoreapp2.0\p07_DivisibleBy3.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\netcoreapp2.0\p07_DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\netcoreapp2.0\p07_DivisibleBy3.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\netcoreapp2.0\p07_DivisibleBy3.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\netcoreapp2.0\p07_DivisibleBy3.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p07_DivisibleBy3\obj\Debug\netcoreapp2.0\p07_DivisibleBy3.pdb

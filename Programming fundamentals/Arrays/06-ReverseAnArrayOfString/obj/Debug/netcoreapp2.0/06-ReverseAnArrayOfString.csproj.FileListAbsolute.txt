@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\bin\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.deps.json
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\bin\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\bin\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\bin\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.dll
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\bin\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.pdb
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\obj\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\obj\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\obj\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\obj\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\obj\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.dll
+D:\SoftUni\Programing fundamentals\Arrays\06-ReverseAnArrayOfString\obj\Debug\netcoreapp2.0\06-ReverseAnArrayOfString.pdb

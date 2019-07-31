@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\bin\Debug\netcoreapp2.0\02-PracticeFloatingPoint.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\bin\Debug\netcoreapp2.0\02-PracticeFloatingPoint.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\bin\Debug\netcoreapp2.0\02-PracticeFloatingPoint.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\bin\Debug\netcoreapp2.0\02-PracticeFloatingPoint.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\bin\Debug\netcoreapp2.0\02-PracticeFloatingPoint.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\obj\Debug\netcoreapp2.0\02-PracticeFloatingPoint.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\obj\Debug\netcoreapp2.0\02-PracticeFloatingPoint.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\obj\Debug\netcoreapp2.0\02-PracticeFloatingPoint.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\obj\Debug\netcoreapp2.0\02-PracticeFloatingPoint.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\obj\Debug\netcoreapp2.0\02-PracticeFloatingPoint.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\02-PracticeFloatingPoint\obj\Debug\netcoreapp2.0\02-PracticeFloatingPoint.pdb

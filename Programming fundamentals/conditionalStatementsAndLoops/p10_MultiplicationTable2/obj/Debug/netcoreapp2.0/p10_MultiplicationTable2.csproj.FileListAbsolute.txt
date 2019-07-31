@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\bin\Debug\netcoreapp2.0\p10_MultiplicationTable2.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\bin\Debug\netcoreapp2.0\p10_MultiplicationTable2.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\bin\Debug\netcoreapp2.0\p10_MultiplicationTable2.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\bin\Debug\netcoreapp2.0\p10_MultiplicationTable2.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\bin\Debug\netcoreapp2.0\p10_MultiplicationTable2.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\obj\Debug\netcoreapp2.0\p10_MultiplicationTable2.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\obj\Debug\netcoreapp2.0\p10_MultiplicationTable2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\obj\Debug\netcoreapp2.0\p10_MultiplicationTable2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\obj\Debug\netcoreapp2.0\p10_MultiplicationTable2.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\obj\Debug\netcoreapp2.0\p10_MultiplicationTable2.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p10_MultiplicationTable2\obj\Debug\netcoreapp2.0\p10_MultiplicationTable2.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\bin\Debug\netcoreapp2.0\02-ChangeList.deps.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\bin\Debug\netcoreapp2.0\02-ChangeList.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\bin\Debug\netcoreapp2.0\02-ChangeList.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\bin\Debug\netcoreapp2.0\02-ChangeList.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\bin\Debug\netcoreapp2.0\02-ChangeList.pdb
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\obj\Debug\netcoreapp2.0\02-ChangeList.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\obj\Debug\netcoreapp2.0\02-ChangeList.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\obj\Debug\netcoreapp2.0\02-ChangeList.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\obj\Debug\netcoreapp2.0\02-ChangeList.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\obj\Debug\netcoreapp2.0\02-ChangeList.pdb
+D:\SoftUni\Programing fundamentals\Lists_Exercises\02-ChangeList\obj\Debug\netcoreapp2.0\02-ChangeList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\bin\Debug\netcoreapp2.0\01-BlankReceipt.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\bin\Debug\netcoreapp2.0\01-BlankReceipt.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\bin\Debug\netcoreapp2.0\01-BlankReceipt.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\bin\Debug\netcoreapp2.0\01-BlankReceipt.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\bin\Debug\netcoreapp2.0\01-BlankReceipt.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\obj\Debug\netcoreapp2.0\01-BlankReceipt.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\obj\Debug\netcoreapp2.0\01-BlankReceipt.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\obj\Debug\netcoreapp2.0\01-BlankReceipt.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\obj\Debug\netcoreapp2.0\01-BlankReceipt.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\obj\Debug\netcoreapp2.0\01-BlankReceipt.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\01-BlankReceipt\obj\Debug\netcoreapp2.0\01-BlankReceipt.csprojResolveAssemblyReference.cache

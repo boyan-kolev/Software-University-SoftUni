@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04-DistanceBetweenPoints.deps.json
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04-DistanceBetweenPoints.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04-DistanceBetweenPoints.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04-DistanceBetweenPoints.dll
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04-DistanceBetweenPoints.pdb
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04-DistanceBetweenPoints.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04-DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04-DistanceBetweenPoints.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04-DistanceBetweenPoints.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04-DistanceBetweenPoints.dll
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\04-DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04-DistanceBetweenPoints.pdb

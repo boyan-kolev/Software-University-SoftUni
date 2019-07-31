@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\bin\Debug\netcoreapp2.0\01-PracticeInteger.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\bin\Debug\netcoreapp2.0\01-PracticeInteger.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\bin\Debug\netcoreapp2.0\01-PracticeInteger.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\bin\Debug\netcoreapp2.0\01-PracticeInteger.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\bin\Debug\netcoreapp2.0\01-PracticeInteger.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\obj\Debug\netcoreapp2.0\01-PracticeInteger.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\obj\Debug\netcoreapp2.0\01-PracticeInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\obj\Debug\netcoreapp2.0\01-PracticeInteger.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\obj\Debug\netcoreapp2.0\01-PracticeInteger.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\obj\Debug\netcoreapp2.0\01-PracticeInteger.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\01-PracticeInteger\obj\Debug\netcoreapp2.0\01-PracticeInteger.pdb

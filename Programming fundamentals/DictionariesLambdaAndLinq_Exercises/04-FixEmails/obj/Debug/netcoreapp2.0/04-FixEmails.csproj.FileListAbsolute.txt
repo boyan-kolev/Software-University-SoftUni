@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\bin\Debug\netcoreapp2.0\04-FixEmails.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\bin\Debug\netcoreapp2.0\04-FixEmails.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\bin\Debug\netcoreapp2.0\04-FixEmails.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\bin\Debug\netcoreapp2.0\04-FixEmails.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\bin\Debug\netcoreapp2.0\04-FixEmails.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\obj\Debug\netcoreapp2.0\04-FixEmails.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\obj\Debug\netcoreapp2.0\04-FixEmails.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\obj\Debug\netcoreapp2.0\04-FixEmails.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\obj\Debug\netcoreapp2.0\04-FixEmails.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\obj\Debug\netcoreapp2.0\04-FixEmails.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\04-FixEmails\obj\Debug\netcoreapp2.0\04-FixEmails.pdb

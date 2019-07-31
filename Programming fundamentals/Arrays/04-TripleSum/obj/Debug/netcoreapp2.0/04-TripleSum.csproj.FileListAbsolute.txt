@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\bin\Debug\netcoreapp2.0\04-TripleSum.deps.json
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\bin\Debug\netcoreapp2.0\04-TripleSum.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\bin\Debug\netcoreapp2.0\04-TripleSum.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\bin\Debug\netcoreapp2.0\04-TripleSum.dll
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\bin\Debug\netcoreapp2.0\04-TripleSum.pdb
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\obj\Debug\netcoreapp2.0\04-TripleSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\obj\Debug\netcoreapp2.0\04-TripleSum.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\obj\Debug\netcoreapp2.0\04-TripleSum.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\obj\Debug\netcoreapp2.0\04-TripleSum.dll
+D:\SoftUni\Programing fundamentals\Arrays\04-TripleSum\obj\Debug\netcoreapp2.0\04-TripleSum.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\bin\Debug\netcoreapp2.0\03.deps.json
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\bin\Debug\netcoreapp2.0\03.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\bin\Debug\netcoreapp2.0\03.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\bin\Debug\netcoreapp2.0\03.dll
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\bin\Debug\netcoreapp2.0\03.pdb
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\obj\Debug\netcoreapp2.0\03.csprojAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\obj\Debug\netcoreapp2.0\03.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\obj\Debug\netcoreapp2.0\03.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\obj\Debug\netcoreapp2.0\03.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\obj\Debug\netcoreapp2.0\03.dll
+D:\SoftUni\Programing fundamentals\ExamPreparation1\03\obj\Debug\netcoreapp2.0\03.pdb

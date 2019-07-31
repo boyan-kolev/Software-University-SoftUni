@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\bin\Debug\netcoreapp2.0\07-MathPower.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\bin\Debug\netcoreapp2.0\07-MathPower.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\bin\Debug\netcoreapp2.0\07-MathPower.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\bin\Debug\netcoreapp2.0\07-MathPower.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\bin\Debug\netcoreapp2.0\07-MathPower.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\obj\Debug\netcoreapp2.0\07-MathPower.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\obj\Debug\netcoreapp2.0\07-MathPower.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\obj\Debug\netcoreapp2.0\07-MathPower.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\obj\Debug\netcoreapp2.0\07-MathPower.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\07-MathPower\obj\Debug\netcoreapp2.0\07-MathPower.pdb

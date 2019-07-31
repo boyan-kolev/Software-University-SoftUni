@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\bin\Debug\netcoreapp2.0\19-TheaThePhotographer.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\bin\Debug\netcoreapp2.0\19-TheaThePhotographer.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\bin\Debug\netcoreapp2.0\19-TheaThePhotographer.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\bin\Debug\netcoreapp2.0\19-TheaThePhotographer.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\bin\Debug\netcoreapp2.0\19-TheaThePhotographer.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\obj\Debug\netcoreapp2.0\19-TheaThePhotographer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\obj\Debug\netcoreapp2.0\19-TheaThePhotographer.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\obj\Debug\netcoreapp2.0\19-TheaThePhotographer.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\obj\Debug\netcoreapp2.0\19-TheaThePhotographer.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\obj\Debug\netcoreapp2.0\19-TheaThePhotographer.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\19-TheaThePhotographer\obj\Debug\netcoreapp2.0\19-TheaThePhotographer.pdb

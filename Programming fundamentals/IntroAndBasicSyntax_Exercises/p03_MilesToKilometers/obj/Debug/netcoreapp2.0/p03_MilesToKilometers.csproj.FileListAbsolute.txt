@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\bin\Debug\netcoreapp2.0\p03_MilesToKilometers.deps.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\bin\Debug\netcoreapp2.0\p03_MilesToKilometers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\bin\Debug\netcoreapp2.0\p03_MilesToKilometers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\bin\Debug\netcoreapp2.0\p03_MilesToKilometers.dll
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\bin\Debug\netcoreapp2.0\p03_MilesToKilometers.pdb
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\obj\Debug\netcoreapp2.0\p03_MilesToKilometers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\obj\Debug\netcoreapp2.0\p03_MilesToKilometers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\obj\Debug\netcoreapp2.0\p03_MilesToKilometers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\obj\Debug\netcoreapp2.0\p03_MilesToKilometers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\obj\Debug\netcoreapp2.0\p03_MilesToKilometers.dll
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p03_MilesToKilometers\obj\Debug\netcoreapp2.0\p03_MilesToKilometers.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\bin\Debug\netcoreapp2.0\problem1_Greeting.deps.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\bin\Debug\netcoreapp2.0\problem1_Greeting.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\bin\Debug\netcoreapp2.0\problem1_Greeting.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\bin\Debug\netcoreapp2.0\problem1_Greeting.dll
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\bin\Debug\netcoreapp2.0\problem1_Greeting.pdb
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\obj\Debug\netcoreapp2.0\problem1_Greeting.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\obj\Debug\netcoreapp2.0\problem1_Greeting.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\obj\Debug\netcoreapp2.0\problem1_Greeting.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\obj\Debug\netcoreapp2.0\problem1_Greeting.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\obj\Debug\netcoreapp2.0\problem1_Greeting.dll
+D:\SoftUni\Programing fundamentals\problem1_Greeting\IntroAndBasicSyntax\obj\Debug\netcoreapp2.0\problem1_Greeting.pdb

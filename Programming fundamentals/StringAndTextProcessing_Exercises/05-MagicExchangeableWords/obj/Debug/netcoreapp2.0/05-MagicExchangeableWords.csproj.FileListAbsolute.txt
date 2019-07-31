@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\bin\Debug\netcoreapp2.0\05-MagicExchangeableWords.deps.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\bin\Debug\netcoreapp2.0\05-MagicExchangeableWords.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\bin\Debug\netcoreapp2.0\05-MagicExchangeableWords.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\bin\Debug\netcoreapp2.0\05-MagicExchangeableWords.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\bin\Debug\netcoreapp2.0\05-MagicExchangeableWords.pdb
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\obj\Debug\netcoreapp2.0\05-MagicExchangeableWords.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\obj\Debug\netcoreapp2.0\05-MagicExchangeableWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\obj\Debug\netcoreapp2.0\05-MagicExchangeableWords.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\obj\Debug\netcoreapp2.0\05-MagicExchangeableWords.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\obj\Debug\netcoreapp2.0\05-MagicExchangeableWords.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\05-MagicExchangeableWords\obj\Debug\netcoreapp2.0\05-MagicExchangeableWords.pdb

@@ -1,0 +1,7 @@
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\bin\Debug\041.exe.config
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\bin\Debug\041.exe
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\bin\Debug\041.pdb
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\obj\Debug\041.csprojAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\obj\Debug\041.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\obj\Debug\041.exe
+D:\SoftUni\Programing fundamentals\ExamPreparation3\041\obj\Debug\041.pdb

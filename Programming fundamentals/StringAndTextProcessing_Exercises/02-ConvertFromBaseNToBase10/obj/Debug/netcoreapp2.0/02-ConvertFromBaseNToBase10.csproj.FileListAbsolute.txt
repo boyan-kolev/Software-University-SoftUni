@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.deps.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\bin\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.pdb
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\02-ConvertFromBaseNToBase10\obj\Debug\netcoreapp2.0\02-ConvertFromBaseNToBase10.pdb

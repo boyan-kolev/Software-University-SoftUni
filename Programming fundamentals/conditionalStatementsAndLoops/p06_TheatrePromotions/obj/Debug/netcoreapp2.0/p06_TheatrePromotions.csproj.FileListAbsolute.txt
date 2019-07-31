@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\bin\Debug\netcoreapp2.0\p06_TheatrePromotions.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\bin\Debug\netcoreapp2.0\p06_TheatrePromotions.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\bin\Debug\netcoreapp2.0\p06_TheatrePromotions.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\bin\Debug\netcoreapp2.0\p06_TheatrePromotions.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\bin\Debug\netcoreapp2.0\p06_TheatrePromotions.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\obj\Debug\netcoreapp2.0\p06_TheatrePromotions.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\obj\Debug\netcoreapp2.0\p06_TheatrePromotions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\obj\Debug\netcoreapp2.0\p06_TheatrePromotions.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\obj\Debug\netcoreapp2.0\p06_TheatrePromotions.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\obj\Debug\netcoreapp2.0\p06_TheatrePromotions.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p06_TheatrePromotions\obj\Debug\netcoreapp2.0\p06_TheatrePromotions.pdb

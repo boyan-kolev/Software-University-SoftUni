@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\bin\Debug\netcoreapp2.0\p05_CharacterStats.deps.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\bin\Debug\netcoreapp2.0\p05_CharacterStats.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\bin\Debug\netcoreapp2.0\p05_CharacterStats.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\bin\Debug\netcoreapp2.0\p05_CharacterStats.dll
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\bin\Debug\netcoreapp2.0\p05_CharacterStats.pdb
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\obj\Debug\netcoreapp2.0\p05_CharacterStats.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\obj\Debug\netcoreapp2.0\p05_CharacterStats.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\obj\Debug\netcoreapp2.0\p05_CharacterStats.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\obj\Debug\netcoreapp2.0\p05_CharacterStats.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\obj\Debug\netcoreapp2.0\p05_CharacterStats.dll
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p05_CharacterStats\obj\Debug\netcoreapp2.0\p05_CharacterStats.pdb

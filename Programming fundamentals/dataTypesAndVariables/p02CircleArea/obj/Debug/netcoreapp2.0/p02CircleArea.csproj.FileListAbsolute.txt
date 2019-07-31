@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\bin\Debug\netcoreapp2.0\p02CircleArea.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\bin\Debug\netcoreapp2.0\p02CircleArea.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\bin\Debug\netcoreapp2.0\p02CircleArea.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\bin\Debug\netcoreapp2.0\p02CircleArea.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\bin\Debug\netcoreapp2.0\p02CircleArea.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\obj\Debug\netcoreapp2.0\p02CircleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\obj\Debug\netcoreapp2.0\p02CircleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\obj\Debug\netcoreapp2.0\p02CircleArea.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\obj\Debug\netcoreapp2.0\p02CircleArea.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p02CircleArea\obj\Debug\netcoreapp2.0\p02CircleArea.pdb

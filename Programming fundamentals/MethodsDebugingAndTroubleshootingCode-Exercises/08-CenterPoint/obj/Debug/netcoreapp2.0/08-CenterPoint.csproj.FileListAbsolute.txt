@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\bin\Debug\netcoreapp2.0\08-CenterPoint.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\bin\Debug\netcoreapp2.0\08-CenterPoint.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\bin\Debug\netcoreapp2.0\08-CenterPoint.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\bin\Debug\netcoreapp2.0\08-CenterPoint.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\bin\Debug\netcoreapp2.0\08-CenterPoint.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\obj\Debug\netcoreapp2.0\08-CenterPoint.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\obj\Debug\netcoreapp2.0\08-CenterPoint.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\obj\Debug\netcoreapp2.0\08-CenterPoint.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\obj\Debug\netcoreapp2.0\08-CenterPoint.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\08-CenterPoint\obj\Debug\netcoreapp2.0\08-CenterPoint.pdb

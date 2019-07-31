@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\bin\Debug\netcoreapp2.0\restaurantDiscount.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\bin\Debug\netcoreapp2.0\restaurantDiscount.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\bin\Debug\netcoreapp2.0\restaurantDiscount.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\bin\Debug\netcoreapp2.0\restaurantDiscount.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\bin\Debug\netcoreapp2.0\restaurantDiscount.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\obj\Debug\netcoreapp2.0\restaurantDiscount.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\obj\Debug\netcoreapp2.0\restaurantDiscount.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\obj\Debug\netcoreapp2.0\restaurantDiscount.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\obj\Debug\netcoreapp2.0\restaurantDiscount.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\obj\Debug\netcoreapp2.0\restaurantDiscount.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\restaurantDiscount\obj\Debug\netcoreapp2.0\restaurantDiscount.pdb

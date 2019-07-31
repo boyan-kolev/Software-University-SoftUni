@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\bin\Debug\netcoreapp2.0\04-Palindromes.deps.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\bin\Debug\netcoreapp2.0\04-Palindromes.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\bin\Debug\netcoreapp2.0\04-Palindromes.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\bin\Debug\netcoreapp2.0\04-Palindromes.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\bin\Debug\netcoreapp2.0\04-Palindromes.pdb
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\obj\Debug\netcoreapp2.0\04-Palindromes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\obj\Debug\netcoreapp2.0\04-Palindromes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\obj\Debug\netcoreapp2.0\04-Palindromes.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\obj\Debug\netcoreapp2.0\04-Palindromes.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\obj\Debug\netcoreapp2.0\04-Palindromes.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing\04-Palindromes\obj\Debug\netcoreapp2.0\04-Palindromes.pdb

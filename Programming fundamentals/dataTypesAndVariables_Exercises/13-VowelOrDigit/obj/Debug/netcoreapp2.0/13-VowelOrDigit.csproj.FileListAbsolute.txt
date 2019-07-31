@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\bin\Debug\netcoreapp2.0\13-VowelOrDigit.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\bin\Debug\netcoreapp2.0\13-VowelOrDigit.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\bin\Debug\netcoreapp2.0\13-VowelOrDigit.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\bin\Debug\netcoreapp2.0\13-VowelOrDigit.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\bin\Debug\netcoreapp2.0\13-VowelOrDigit.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\obj\Debug\netcoreapp2.0\13-VowelOrDigit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\obj\Debug\netcoreapp2.0\13-VowelOrDigit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\obj\Debug\netcoreapp2.0\13-VowelOrDigit.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\obj\Debug\netcoreapp2.0\13-VowelOrDigit.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\obj\Debug\netcoreapp2.0\13-VowelOrDigit.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\13-VowelOrDigit\obj\Debug\netcoreapp2.0\13-VowelOrDigit.pdb

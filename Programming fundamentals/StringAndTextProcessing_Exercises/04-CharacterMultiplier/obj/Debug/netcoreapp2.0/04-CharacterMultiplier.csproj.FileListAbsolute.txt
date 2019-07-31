@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\bin\Debug\netcoreapp2.0\04-CharacterMultiplier.deps.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\bin\Debug\netcoreapp2.0\04-CharacterMultiplier.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\bin\Debug\netcoreapp2.0\04-CharacterMultiplier.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\bin\Debug\netcoreapp2.0\04-CharacterMultiplier.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\bin\Debug\netcoreapp2.0\04-CharacterMultiplier.pdb
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\obj\Debug\netcoreapp2.0\04-CharacterMultiplier.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\obj\Debug\netcoreapp2.0\04-CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\obj\Debug\netcoreapp2.0\04-CharacterMultiplier.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\obj\Debug\netcoreapp2.0\04-CharacterMultiplier.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\obj\Debug\netcoreapp2.0\04-CharacterMultiplier.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\04-CharacterMultiplier\obj\Debug\netcoreapp2.0\04-CharacterMultiplier.pdb

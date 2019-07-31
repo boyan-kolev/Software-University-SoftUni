@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\bin\Debug\netcoreapp2.0\02-AppaendLists.deps.json
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\bin\Debug\netcoreapp2.0\02-AppaendLists.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\bin\Debug\netcoreapp2.0\02-AppaendLists.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\bin\Debug\netcoreapp2.0\02-AppaendLists.dll
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\bin\Debug\netcoreapp2.0\02-AppaendLists.pdb
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\obj\Debug\netcoreapp2.0\02-AppaendLists.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\obj\Debug\netcoreapp2.0\02-AppaendLists.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\obj\Debug\netcoreapp2.0\02-AppaendLists.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\obj\Debug\netcoreapp2.0\02-AppaendLists.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\obj\Debug\netcoreapp2.0\02-AppaendLists.dll
+D:\SoftUni\Programing fundamentals\Lists\02-AppaendLists\obj\Debug\netcoreapp2.0\02-AppaendLists.pdb

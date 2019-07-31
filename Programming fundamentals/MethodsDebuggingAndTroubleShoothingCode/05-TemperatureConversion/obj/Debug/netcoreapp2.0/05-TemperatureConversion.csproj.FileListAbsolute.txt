@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\bin\Debug\netcoreapp2.0\05-TemperatureConversion.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\bin\Debug\netcoreapp2.0\05-TemperatureConversion.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\bin\Debug\netcoreapp2.0\05-TemperatureConversion.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\bin\Debug\netcoreapp2.0\05-TemperatureConversion.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\bin\Debug\netcoreapp2.0\05-TemperatureConversion.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\obj\Debug\netcoreapp2.0\05-TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\obj\Debug\netcoreapp2.0\05-TemperatureConversion.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\obj\Debug\netcoreapp2.0\05-TemperatureConversion.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\obj\Debug\netcoreapp2.0\05-TemperatureConversion.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\05-TemperatureConversion\obj\Debug\netcoreapp2.0\05-TemperatureConversion.pdb

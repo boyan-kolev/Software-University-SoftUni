@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.deps.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.pdb
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\01-MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01-MaxSequenceOfEqualElements.pdb

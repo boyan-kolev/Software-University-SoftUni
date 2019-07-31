@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\bin\Debug\netcoreapp2.0\01CountRealNumbers.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\01CountRealNumbers\obj\Debug\netcoreapp2.0\01CountRealNumbers.pdb

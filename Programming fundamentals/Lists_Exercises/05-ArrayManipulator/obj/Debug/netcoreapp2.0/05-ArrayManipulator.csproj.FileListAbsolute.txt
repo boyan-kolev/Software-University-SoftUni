@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\bin\Debug\netcoreapp2.0\05-ArrayManipulator.deps.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\bin\Debug\netcoreapp2.0\05-ArrayManipulator.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\bin\Debug\netcoreapp2.0\05-ArrayManipulator.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\bin\Debug\netcoreapp2.0\05-ArrayManipulator.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\bin\Debug\netcoreapp2.0\05-ArrayManipulator.pdb
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\obj\Debug\netcoreapp2.0\05-ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\obj\Debug\netcoreapp2.0\05-ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\obj\Debug\netcoreapp2.0\05-ArrayManipulator.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\obj\Debug\netcoreapp2.0\05-ArrayManipulator.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\obj\Debug\netcoreapp2.0\05-ArrayManipulator.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\05-ArrayManipulator\obj\Debug\netcoreapp2.0\05-ArrayManipulator.pdb

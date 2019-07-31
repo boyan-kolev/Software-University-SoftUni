@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\bin\Debug\netcoreapp2.0\11-PriceChangeAlert.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\bin\Debug\netcoreapp2.0\11-PriceChangeAlert.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\bin\Debug\netcoreapp2.0\11-PriceChangeAlert.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\bin\Debug\netcoreapp2.0\11-PriceChangeAlert.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\bin\Debug\netcoreapp2.0\11-PriceChangeAlert.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\obj\Debug\netcoreapp2.0\11-PriceChangeAlert.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\obj\Debug\netcoreapp2.0\11-PriceChangeAlert.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\obj\Debug\netcoreapp2.0\11-PriceChangeAlert.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\obj\Debug\netcoreapp2.0\11-PriceChangeAlert.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\11-PriceChangeAlert\obj\Debug\netcoreapp2.0\11-PriceChangeAlert.pdb

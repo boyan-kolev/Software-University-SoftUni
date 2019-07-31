@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\bin\Debug\netcoreapp2.0\p13_GameOfNumbers.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p13_GameOfNumbers\obj\Debug\netcoreapp2.0\p13_GameOfNumbers.pdb

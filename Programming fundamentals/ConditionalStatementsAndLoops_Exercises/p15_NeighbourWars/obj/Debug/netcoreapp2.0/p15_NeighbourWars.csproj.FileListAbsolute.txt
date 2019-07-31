@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\bin\Debug\netcoreapp2.0\p15_NeighbourWars.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\bin\Debug\netcoreapp2.0\p15_NeighbourWars.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\bin\Debug\netcoreapp2.0\p15_NeighbourWars.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\bin\Debug\netcoreapp2.0\p15_NeighbourWars.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\bin\Debug\netcoreapp2.0\p15_NeighbourWars.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\obj\Debug\netcoreapp2.0\p15_NeighbourWars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\obj\Debug\netcoreapp2.0\p15_NeighbourWars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\obj\Debug\netcoreapp2.0\p15_NeighbourWars.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\obj\Debug\netcoreapp2.0\p15_NeighbourWars.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\obj\Debug\netcoreapp2.0\p15_NeighbourWars.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p15_NeighbourWars\obj\Debug\netcoreapp2.0\p15_NeighbourWars.pdb

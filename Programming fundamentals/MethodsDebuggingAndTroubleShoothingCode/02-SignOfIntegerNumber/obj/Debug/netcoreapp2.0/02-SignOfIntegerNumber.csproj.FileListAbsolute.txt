@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\02-SignOfIntegerNumber.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\02-SignOfIntegerNumber.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\02-SignOfIntegerNumber.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\02-SignOfIntegerNumber.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\bin\Debug\netcoreapp2.0\02-SignOfIntegerNumber.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\02-SignOfIntegerNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\02-SignOfIntegerNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\02-SignOfIntegerNumber.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\02-SignOfIntegerNumber.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\02-SignOfIntegerNumber.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\02-SignOfIntegerNumber\obj\Debug\netcoreapp2.0\02-SignOfIntegerNumber.csprojResolveAssemblyReference.cache

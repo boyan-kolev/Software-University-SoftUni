@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\bin\Debug\netcoreapp2.0\01-PhoneBook.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\bin\Debug\netcoreapp2.0\01-PhoneBook.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\bin\Debug\netcoreapp2.0\01-PhoneBook.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\bin\Debug\netcoreapp2.0\01-PhoneBook.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\bin\Debug\netcoreapp2.0\01-PhoneBook.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\obj\Debug\netcoreapp2.0\01-PhoneBook.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\obj\Debug\netcoreapp2.0\01-PhoneBook.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\obj\Debug\netcoreapp2.0\01-PhoneBook.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\obj\Debug\netcoreapp2.0\01-PhoneBook.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\obj\Debug\netcoreapp2.0\01-PhoneBook.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\01-PhoneBook\obj\Debug\netcoreapp2.0\01-PhoneBook.pdb

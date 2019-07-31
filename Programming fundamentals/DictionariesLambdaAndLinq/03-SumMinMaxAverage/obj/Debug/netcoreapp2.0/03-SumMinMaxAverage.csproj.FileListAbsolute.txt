@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\bin\Debug\netcoreapp2.0\03-SumMinMaxAverage.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\bin\Debug\netcoreapp2.0\03-SumMinMaxAverage.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\bin\Debug\netcoreapp2.0\03-SumMinMaxAverage.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\bin\Debug\netcoreapp2.0\03-SumMinMaxAverage.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\bin\Debug\netcoreapp2.0\03-SumMinMaxAverage.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\obj\Debug\netcoreapp2.0\03-SumMinMaxAverage.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\obj\Debug\netcoreapp2.0\03-SumMinMaxAverage.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\obj\Debug\netcoreapp2.0\03-SumMinMaxAverage.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\obj\Debug\netcoreapp2.0\03-SumMinMaxAverage.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\03-SumMinMaxAverage\obj\Debug\netcoreapp2.0\03-SumMinMaxAverage.pdb

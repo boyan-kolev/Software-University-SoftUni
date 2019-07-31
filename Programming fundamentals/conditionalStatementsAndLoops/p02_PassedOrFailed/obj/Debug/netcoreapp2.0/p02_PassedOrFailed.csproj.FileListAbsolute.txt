@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\bin\Debug\netcoreapp2.0\p02_PassedOrFailed.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\bin\Debug\netcoreapp2.0\p02_PassedOrFailed.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\bin\Debug\netcoreapp2.0\p02_PassedOrFailed.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\bin\Debug\netcoreapp2.0\p02_PassedOrFailed.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\bin\Debug\netcoreapp2.0\p02_PassedOrFailed.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\obj\Debug\netcoreapp2.0\p02_PassedOrFailed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\obj\Debug\netcoreapp2.0\p02_PassedOrFailed.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\obj\Debug\netcoreapp2.0\p02_PassedOrFailed.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\obj\Debug\netcoreapp2.0\p02_PassedOrFailed.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p02_PassedOrFailed\obj\Debug\netcoreapp2.0\p02_PassedOrFailed.pdb

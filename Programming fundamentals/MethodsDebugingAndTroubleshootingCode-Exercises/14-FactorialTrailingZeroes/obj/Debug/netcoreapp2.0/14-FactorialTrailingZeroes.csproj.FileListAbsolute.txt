@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\bin\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\bin\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\bin\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\bin\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\bin\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\obj\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\obj\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\obj\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\obj\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\14-FactorialTrailingZeroes\obj\Debug\netcoreapp2.0\14-FactorialTrailingZeroes.pdb

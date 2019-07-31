@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\bin\Debug\netcoreapp2.0\10-CubeProperties.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\bin\Debug\netcoreapp2.0\10-CubeProperties.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\bin\Debug\netcoreapp2.0\10-CubeProperties.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\bin\Debug\netcoreapp2.0\10-CubeProperties.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\bin\Debug\netcoreapp2.0\10-CubeProperties.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\obj\Debug\netcoreapp2.0\10-CubeProperties.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\obj\Debug\netcoreapp2.0\10-CubeProperties.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\obj\Debug\netcoreapp2.0\10-CubeProperties.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\obj\Debug\netcoreapp2.0\10-CubeProperties.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\10-CubeProperties\obj\Debug\netcoreapp2.0\10-CubeProperties.pdb

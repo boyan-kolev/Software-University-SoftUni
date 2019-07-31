@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\bin\Debug\netcoreapp2.0\06-CalculateTriangleArea.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\bin\Debug\netcoreapp2.0\06-CalculateTriangleArea.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\bin\Debug\netcoreapp2.0\06-CalculateTriangleArea.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\bin\Debug\netcoreapp2.0\06-CalculateTriangleArea.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\bin\Debug\netcoreapp2.0\06-CalculateTriangleArea.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\obj\Debug\netcoreapp2.0\06-CalculateTriangleArea.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\obj\Debug\netcoreapp2.0\06-CalculateTriangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\obj\Debug\netcoreapp2.0\06-CalculateTriangleArea.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\obj\Debug\netcoreapp2.0\06-CalculateTriangleArea.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\06-CalculateTriangleArea\obj\Debug\netcoreapp2.0\06-CalculateTriangleArea.pdb

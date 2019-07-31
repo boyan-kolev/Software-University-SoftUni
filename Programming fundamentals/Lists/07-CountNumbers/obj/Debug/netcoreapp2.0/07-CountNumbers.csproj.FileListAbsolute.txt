@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\bin\Debug\netcoreapp2.0\07-CountNumbers.deps.json
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\bin\Debug\netcoreapp2.0\07-CountNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\bin\Debug\netcoreapp2.0\07-CountNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\bin\Debug\netcoreapp2.0\07-CountNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\bin\Debug\netcoreapp2.0\07-CountNumbers.pdb
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\obj\Debug\netcoreapp2.0\07-CountNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\obj\Debug\netcoreapp2.0\07-CountNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\obj\Debug\netcoreapp2.0\07-CountNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\obj\Debug\netcoreapp2.0\07-CountNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\obj\Debug\netcoreapp2.0\07-CountNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists\07-CountNumbers\obj\Debug\netcoreapp2.0\07-CountNumbers.pdb

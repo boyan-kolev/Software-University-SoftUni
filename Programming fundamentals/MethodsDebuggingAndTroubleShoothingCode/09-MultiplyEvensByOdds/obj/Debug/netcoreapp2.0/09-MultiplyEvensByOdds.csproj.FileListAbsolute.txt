@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\bin\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-MultiplyEvensByOdds\obj\Debug\netcoreapp2.0\09-MultiplyEvensByOdds.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p03ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\p03ExactSumOfRealNumbers.pdb

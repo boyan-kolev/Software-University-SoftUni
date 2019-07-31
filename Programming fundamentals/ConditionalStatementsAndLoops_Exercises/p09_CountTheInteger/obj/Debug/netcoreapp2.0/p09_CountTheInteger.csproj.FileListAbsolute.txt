@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\bin\Debug\netcoreapp2.0\p09_CountTheInteger.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\bin\Debug\netcoreapp2.0\p09_CountTheInteger.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\bin\Debug\netcoreapp2.0\p09_CountTheInteger.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\bin\Debug\netcoreapp2.0\p09_CountTheInteger.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\bin\Debug\netcoreapp2.0\p09_CountTheInteger.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\obj\Debug\netcoreapp2.0\p09_CountTheInteger.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\obj\Debug\netcoreapp2.0\p09_CountTheInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\obj\Debug\netcoreapp2.0\p09_CountTheInteger.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\obj\Debug\netcoreapp2.0\p09_CountTheInteger.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\obj\Debug\netcoreapp2.0\p09_CountTheInteger.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p09_CountTheInteger\obj\Debug\netcoreapp2.0\p09_CountTheInteger.pdb

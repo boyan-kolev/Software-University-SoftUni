@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.deps.json
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.dll
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\bin\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.pdb
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.dll
+D:\SoftUni\Programing fundamentals\Arrays\02-ReverseAnArrayOfIntegers\obj\Debug\netcoreapp2.0\02-ReverseAnArrayOfIntegers.pdb

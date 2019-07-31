@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\bin\Debug\netcoreapp2.0\04-Largest3numbers.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\bin\Debug\netcoreapp2.0\04-Largest3numbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\bin\Debug\netcoreapp2.0\04-Largest3numbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\bin\Debug\netcoreapp2.0\04-Largest3numbers.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\bin\Debug\netcoreapp2.0\04-Largest3numbers.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\obj\Debug\netcoreapp2.0\04-Largest3numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\obj\Debug\netcoreapp2.0\04-Largest3numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\obj\Debug\netcoreapp2.0\04-Largest3numbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\obj\Debug\netcoreapp2.0\04-Largest3numbers.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\04-Largest3numbers\obj\Debug\netcoreapp2.0\04-Largest3numbers.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\bin\Debug\netcoreapp2.0\07-PrimesInGivenRange.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\bin\Debug\netcoreapp2.0\07-PrimesInGivenRange.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\bin\Debug\netcoreapp2.0\07-PrimesInGivenRange.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\bin\Debug\netcoreapp2.0\07-PrimesInGivenRange.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\bin\Debug\netcoreapp2.0\07-PrimesInGivenRange.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\obj\Debug\netcoreapp2.0\07-PrimesInGivenRange.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\obj\Debug\netcoreapp2.0\07-PrimesInGivenRange.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\obj\Debug\netcoreapp2.0\07-PrimesInGivenRange.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\obj\Debug\netcoreapp2.0\07-PrimesInGivenRange.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\07-PrimesInGivenRange\obj\Debug\netcoreapp2.0\07-PrimesInGivenRange.pdb

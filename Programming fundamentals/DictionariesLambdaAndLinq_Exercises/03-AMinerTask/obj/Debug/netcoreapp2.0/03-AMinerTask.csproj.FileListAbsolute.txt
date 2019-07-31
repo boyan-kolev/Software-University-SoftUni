@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\bin\Debug\netcoreapp2.0\03-AMinerTask.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\bin\Debug\netcoreapp2.0\03-AMinerTask.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\bin\Debug\netcoreapp2.0\03-AMinerTask.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\bin\Debug\netcoreapp2.0\03-AMinerTask.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\bin\Debug\netcoreapp2.0\03-AMinerTask.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\obj\Debug\netcoreapp2.0\03-AMinerTask.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\obj\Debug\netcoreapp2.0\03-AMinerTask.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\obj\Debug\netcoreapp2.0\03-AMinerTask.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\obj\Debug\netcoreapp2.0\03-AMinerTask.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\obj\Debug\netcoreapp2.0\03-AMinerTask.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\03-AMinerTask\obj\Debug\netcoreapp2.0\03-AMinerTask.pdb

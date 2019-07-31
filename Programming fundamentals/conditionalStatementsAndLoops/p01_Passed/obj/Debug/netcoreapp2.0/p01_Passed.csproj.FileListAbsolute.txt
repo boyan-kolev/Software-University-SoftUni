@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\bin\Debug\netcoreapp2.0\p01_Passed.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p01_Passed\obj\Debug\netcoreapp2.0\p01_Passed.pdb

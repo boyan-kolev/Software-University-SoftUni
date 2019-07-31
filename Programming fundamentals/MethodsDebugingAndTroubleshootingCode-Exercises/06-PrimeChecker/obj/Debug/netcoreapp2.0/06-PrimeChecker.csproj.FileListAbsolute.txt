@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\bin\Debug\netcoreapp2.0\06-PrimeChecker.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\bin\Debug\netcoreapp2.0\06-PrimeChecker.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\bin\Debug\netcoreapp2.0\06-PrimeChecker.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\bin\Debug\netcoreapp2.0\06-PrimeChecker.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\bin\Debug\netcoreapp2.0\06-PrimeChecker.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\obj\Debug\netcoreapp2.0\06-PrimeChecker.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\obj\Debug\netcoreapp2.0\06-PrimeChecker.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\obj\Debug\netcoreapp2.0\06-PrimeChecker.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\obj\Debug\netcoreapp2.0\06-PrimeChecker.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\06-PrimeChecker\obj\Debug\netcoreapp2.0\06-PrimeChecker.pdb

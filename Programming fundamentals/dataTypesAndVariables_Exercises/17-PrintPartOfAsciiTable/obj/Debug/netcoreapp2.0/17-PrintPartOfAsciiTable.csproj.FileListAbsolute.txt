@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\bin\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\bin\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\bin\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\bin\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\bin\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\obj\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\obj\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\obj\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\obj\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\obj\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\17-PrintPartOfAsciiTable\obj\Debug\netcoreapp2.0\17-PrintPartOfAsciiTable.pdb

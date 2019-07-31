@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\bin\Debug\netcoreapp2.0\13-Factorial.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\bin\Debug\netcoreapp2.0\13-Factorial.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\bin\Debug\netcoreapp2.0\13-Factorial.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\bin\Debug\netcoreapp2.0\13-Factorial.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\bin\Debug\netcoreapp2.0\13-Factorial.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\obj\Debug\netcoreapp2.0\13-Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\obj\Debug\netcoreapp2.0\13-Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\obj\Debug\netcoreapp2.0\13-Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\obj\Debug\netcoreapp2.0\13-Factorial.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\obj\Debug\netcoreapp2.0\13-Factorial.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\13-Factorial\obj\Debug\netcoreapp2.0\13-Factorial.pdb

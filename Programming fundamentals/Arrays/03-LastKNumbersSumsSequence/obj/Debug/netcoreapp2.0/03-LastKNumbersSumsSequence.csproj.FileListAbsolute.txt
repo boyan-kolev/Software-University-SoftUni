@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.deps.json
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.dll
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\bin\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.pdb
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.dll
+D:\SoftUni\Programing fundamentals\Arrays\03-LastKNumbersSumsSequence\obj\Debug\netcoreapp2.0\03-LastKNumbersSumsSequence.pdb

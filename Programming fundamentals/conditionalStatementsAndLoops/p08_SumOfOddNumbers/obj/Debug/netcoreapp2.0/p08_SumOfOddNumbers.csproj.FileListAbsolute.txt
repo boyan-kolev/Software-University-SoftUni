@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\bin\Debug\netcoreapp2.0\p08_SumOfOddNumbers.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\bin\Debug\netcoreapp2.0\p08_SumOfOddNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\bin\Debug\netcoreapp2.0\p08_SumOfOddNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\bin\Debug\netcoreapp2.0\p08_SumOfOddNumbers.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\bin\Debug\netcoreapp2.0\p08_SumOfOddNumbers.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\obj\Debug\netcoreapp2.0\p08_SumOfOddNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\obj\Debug\netcoreapp2.0\p08_SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\obj\Debug\netcoreapp2.0\p08_SumOfOddNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\obj\Debug\netcoreapp2.0\p08_SumOfOddNumbers.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p08_SumOfOddNumbers\obj\Debug\netcoreapp2.0\p08_SumOfOddNumbers.pdb

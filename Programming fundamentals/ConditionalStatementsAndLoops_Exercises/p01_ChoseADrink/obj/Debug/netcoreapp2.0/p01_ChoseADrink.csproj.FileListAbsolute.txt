@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\bin\Debug\netcoreapp2.0\p01_ChoseADrink.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\bin\Debug\netcoreapp2.0\p01_ChoseADrink.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\bin\Debug\netcoreapp2.0\p01_ChoseADrink.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\bin\Debug\netcoreapp2.0\p01_ChoseADrink.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\bin\Debug\netcoreapp2.0\p01_ChoseADrink.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\obj\Debug\netcoreapp2.0\p01_ChoseADrink.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\obj\Debug\netcoreapp2.0\p01_ChoseADrink.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\obj\Debug\netcoreapp2.0\p01_ChoseADrink.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\obj\Debug\netcoreapp2.0\p01_ChoseADrink.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\obj\Debug\netcoreapp2.0\p01_ChoseADrink.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p01_ChoseADrink\obj\Debug\netcoreapp2.0\p01_ChoseADrink.pdb

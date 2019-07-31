@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\bin\Debug\netcoreapp2.0\p05SpecialNumbers.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\bin\Debug\netcoreapp2.0\p05SpecialNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\bin\Debug\netcoreapp2.0\p05SpecialNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\bin\Debug\netcoreapp2.0\p05SpecialNumbers.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\bin\Debug\netcoreapp2.0\p05SpecialNumbers.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\obj\Debug\netcoreapp2.0\p05SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\obj\Debug\netcoreapp2.0\p05SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\obj\Debug\netcoreapp2.0\p05SpecialNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\obj\Debug\netcoreapp2.0\p05SpecialNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\obj\Debug\netcoreapp2.0\p05SpecialNumbers.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p05SpecialNumbers\obj\Debug\netcoreapp2.0\p05SpecialNumbers.pdb

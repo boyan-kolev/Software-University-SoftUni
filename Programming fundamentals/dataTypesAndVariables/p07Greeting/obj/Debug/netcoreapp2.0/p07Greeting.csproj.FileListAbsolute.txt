@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\bin\Debug\netcoreapp2.0\p07Greeting.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\bin\Debug\netcoreapp2.0\p07Greeting.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\bin\Debug\netcoreapp2.0\p07Greeting.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\bin\Debug\netcoreapp2.0\p07Greeting.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\bin\Debug\netcoreapp2.0\p07Greeting.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\obj\Debug\netcoreapp2.0\p07Greeting.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\obj\Debug\netcoreapp2.0\p07Greeting.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\obj\Debug\netcoreapp2.0\p07Greeting.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\obj\Debug\netcoreapp2.0\p07Greeting.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\obj\Debug\netcoreapp2.0\p07Greeting.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p07Greeting\obj\Debug\netcoreapp2.0\p07Greeting.pdb

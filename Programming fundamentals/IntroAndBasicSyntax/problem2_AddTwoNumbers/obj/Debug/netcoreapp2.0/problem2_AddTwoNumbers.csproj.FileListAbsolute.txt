@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\bin\Debug\netcoreapp2.0\problem2_AddTwoNumbers.deps.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\bin\Debug\netcoreapp2.0\problem2_AddTwoNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\bin\Debug\netcoreapp2.0\problem2_AddTwoNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\bin\Debug\netcoreapp2.0\problem2_AddTwoNumbers.dll
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\bin\Debug\netcoreapp2.0\problem2_AddTwoNumbers.pdb
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\obj\Debug\netcoreapp2.0\problem2_AddTwoNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\obj\Debug\netcoreapp2.0\problem2_AddTwoNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\obj\Debug\netcoreapp2.0\problem2_AddTwoNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\obj\Debug\netcoreapp2.0\problem2_AddTwoNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\obj\Debug\netcoreapp2.0\problem2_AddTwoNumbers.dll
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem2_AddTwoNumbers\obj\Debug\netcoreapp2.0\problem2_AddTwoNumbers.pdb

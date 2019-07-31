@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\bin\Debug\netcoreapp2.0\16-ComparingFloats.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\bin\Debug\netcoreapp2.0\16-ComparingFloats.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\bin\Debug\netcoreapp2.0\16-ComparingFloats.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\bin\Debug\netcoreapp2.0\16-ComparingFloats.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\bin\Debug\netcoreapp2.0\16-ComparingFloats.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\obj\Debug\netcoreapp2.0\16-ComparingFloats.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\obj\Debug\netcoreapp2.0\16-ComparingFloats.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\obj\Debug\netcoreapp2.0\16-ComparingFloats.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\obj\Debug\netcoreapp2.0\16-ComparingFloats.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\obj\Debug\netcoreapp2.0\16-ComparingFloats.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\15-ComparingFloats\obj\Debug\netcoreapp2.0\16-ComparingFloats.pdb

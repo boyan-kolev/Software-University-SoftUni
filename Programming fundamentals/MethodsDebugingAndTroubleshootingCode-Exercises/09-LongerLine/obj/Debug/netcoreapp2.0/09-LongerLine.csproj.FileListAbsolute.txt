@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\bin\Debug\netcoreapp2.0\09-LongerLine.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\bin\Debug\netcoreapp2.0\09-LongerLine.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\bin\Debug\netcoreapp2.0\09-LongerLine.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\bin\Debug\netcoreapp2.0\09-LongerLine.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\bin\Debug\netcoreapp2.0\09-LongerLine.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\obj\Debug\netcoreapp2.0\09-LongerLine.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\obj\Debug\netcoreapp2.0\09-LongerLine.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\obj\Debug\netcoreapp2.0\09-LongerLine.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\obj\Debug\netcoreapp2.0\09-LongerLine.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\09-LongerLine\obj\Debug\netcoreapp2.0\09-LongerLine.pdb

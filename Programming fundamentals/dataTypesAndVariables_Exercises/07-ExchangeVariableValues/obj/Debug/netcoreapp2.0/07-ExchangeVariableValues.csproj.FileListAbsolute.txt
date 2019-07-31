@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\bin\Debug\netcoreapp2.0\07-ExchangeVariableValues.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\07-ExchangeVariableValues\obj\Debug\netcoreapp2.0\07-ExchangeVariableValues.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\bin\Debug\netcoreapp2.0\05-handsOfCard.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\bin\Debug\netcoreapp2.0\05-handsOfCard.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\bin\Debug\netcoreapp2.0\05-handsOfCard.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\bin\Debug\netcoreapp2.0\05-handsOfCard.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\bin\Debug\netcoreapp2.0\05-handsOfCard.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\obj\Debug\netcoreapp2.0\05-handsOfCard.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\obj\Debug\netcoreapp2.0\05-handsOfCard.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\obj\Debug\netcoreapp2.0\05-handsOfCard.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\obj\Debug\netcoreapp2.0\05-handsOfCard.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\obj\Debug\netcoreapp2.0\05-handsOfCard.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\05-handsOfCard\obj\Debug\netcoreapp2.0\05-handsOfCard.pdb

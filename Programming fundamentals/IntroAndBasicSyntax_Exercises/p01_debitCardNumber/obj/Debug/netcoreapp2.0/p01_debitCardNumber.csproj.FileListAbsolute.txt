@@ -1,0 +1,11 @@
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\bin\Debug\netcoreapp2.0\p01_debitCardNumber.deps.json
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\bin\Debug\netcoreapp2.0\p01_debitCardNumber.runtimeconfig.json
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\bin\Debug\netcoreapp2.0\p01_debitCardNumber.runtimeconfig.dev.json
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\bin\Debug\netcoreapp2.0\p01_debitCardNumber.dll
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\bin\Debug\netcoreapp2.0\p01_debitCardNumber.pdb
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\obj\Debug\netcoreapp2.0\p01_debitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\obj\Debug\netcoreapp2.0\p01_debitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\obj\Debug\netcoreapp2.0\p01_debitCardNumber.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\obj\Debug\netcoreapp2.0\p01_debitCardNumber.AssemblyInfo.cs
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\obj\Debug\netcoreapp2.0\p01_debitCardNumber.dll
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p01_debitCardNumber\obj\Debug\netcoreapp2.0\p01_debitCardNumber.pdb

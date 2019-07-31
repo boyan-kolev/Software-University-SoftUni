@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\bin\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\bin\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\bin\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\bin\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\bin\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\obj\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\obj\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\obj\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\obj\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\obj\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\03-PracticCharactersAndStrings\obj\Debug\netcoreapp2.0\03-PracticCharactersAndStrings.csprojResolveAssemblyReference.cache

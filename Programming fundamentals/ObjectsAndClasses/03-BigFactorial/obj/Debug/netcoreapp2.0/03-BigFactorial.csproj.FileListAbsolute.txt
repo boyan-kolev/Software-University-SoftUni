@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\bin\Debug\netcoreapp2.0\03-BigFactorial.deps.json
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\bin\Debug\netcoreapp2.0\03-BigFactorial.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\bin\Debug\netcoreapp2.0\03-BigFactorial.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\bin\Debug\netcoreapp2.0\03-BigFactorial.dll
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\bin\Debug\netcoreapp2.0\03-BigFactorial.pdb
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\obj\Debug\netcoreapp2.0\03-BigFactorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\obj\Debug\netcoreapp2.0\03-BigFactorial.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\obj\Debug\netcoreapp2.0\03-BigFactorial.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\obj\Debug\netcoreapp2.0\03-BigFactorial.dll
+D:\SoftUni\Programing fundamentals\ObjectsAndClasses\03-BigFactorial\obj\Debug\netcoreapp2.0\03-BigFactorial.pdb

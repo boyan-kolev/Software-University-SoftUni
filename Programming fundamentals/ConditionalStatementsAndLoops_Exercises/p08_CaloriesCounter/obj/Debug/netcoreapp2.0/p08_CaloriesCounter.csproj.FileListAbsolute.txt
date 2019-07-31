@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\bin\Debug\netcoreapp2.0\p08_CaloriesCounter.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p08_CaloriesCounter\obj\Debug\netcoreapp2.0\p08_CaloriesCounter.pdb

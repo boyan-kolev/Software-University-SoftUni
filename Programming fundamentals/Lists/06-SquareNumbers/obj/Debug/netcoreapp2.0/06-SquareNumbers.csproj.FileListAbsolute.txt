@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\obj\Debug\netcoreapp2.0\06-SquareNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\obj\Debug\netcoreapp2.0\06-SquareNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\obj\Debug\netcoreapp2.0\06-SquareNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\obj\Debug\netcoreapp2.0\06-SquareNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\bin\Debug\netcoreapp2.0\06-SquareNumbers.deps.json
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\bin\Debug\netcoreapp2.0\06-SquareNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\bin\Debug\netcoreapp2.0\06-SquareNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\bin\Debug\netcoreapp2.0\06-SquareNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\bin\Debug\netcoreapp2.0\06-SquareNumbers.pdb
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\obj\Debug\netcoreapp2.0\06-SquareNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists\06-SquareNumbers\obj\Debug\netcoreapp2.0\06-SquareNumbers.pdb

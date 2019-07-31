@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\bin\Debug\netcoreapp2.0\p01CenturiesToMinutes.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\bin\Debug\netcoreapp2.0\p01CenturiesToMinutes.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\bin\Debug\netcoreapp2.0\p01CenturiesToMinutes.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\bin\Debug\netcoreapp2.0\p01CenturiesToMinutes.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\bin\Debug\netcoreapp2.0\p01CenturiesToMinutes.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\obj\Debug\netcoreapp2.0\p01CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\obj\Debug\netcoreapp2.0\p01CenturiesToMinutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\obj\Debug\netcoreapp2.0\p01CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\obj\Debug\netcoreapp2.0\p01CenturiesToMinutes.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\obj\Debug\netcoreapp2.0\p01CenturiesToMinutes.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p01CenturiesToMinutes\obj\Debug\netcoreapp2.0\p01CenturiesToMinutes.pdb

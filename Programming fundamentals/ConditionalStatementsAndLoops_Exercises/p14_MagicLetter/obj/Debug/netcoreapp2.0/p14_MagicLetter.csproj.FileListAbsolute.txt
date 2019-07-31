@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\p14_MagicLetter.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\p14_MagicLetter.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\p14_MagicLetter.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\p14_MagicLetter.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\bin\Debug\netcoreapp2.0\p14_MagicLetter.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\p14_MagicLetter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\p14_MagicLetter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\p14_MagicLetter.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\p14_MagicLetter.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\p14_MagicLetter.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p14_MagicLetter\obj\Debug\netcoreapp2.0\p14_MagicLetter.pdb

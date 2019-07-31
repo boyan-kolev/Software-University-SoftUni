@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.deps.json
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.dll
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\bin\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.pdb
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.dll
+D:\SoftUni\Programing fundamentals\Arrays\05-RoundingNumbersAwayFromZero\obj\Debug\netcoreapp2.0\05-RoundingNumbersAwayFromZero.pdb

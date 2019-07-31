@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\bin\Debug\netcoreapp2.0\p04Elevator.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\bin\Debug\netcoreapp2.0\p04Elevator.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\bin\Debug\netcoreapp2.0\p04Elevator.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\bin\Debug\netcoreapp2.0\p04Elevator.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\bin\Debug\netcoreapp2.0\p04Elevator.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\obj\Debug\netcoreapp2.0\p04Elevator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\obj\Debug\netcoreapp2.0\p04Elevator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\obj\Debug\netcoreapp2.0\p04Elevator.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\obj\Debug\netcoreapp2.0\p04Elevator.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\obj\Debug\netcoreapp2.0\p04Elevator.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables\p04Elevator\obj\Debug\netcoreapp2.0\p04Elevator.pdb

@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\bin\Debug\netcoreapp2.0\p02_rectangleArea.deps.json
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\bin\Debug\netcoreapp2.0\p02_rectangleArea.runtimeconfig.json
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\bin\Debug\netcoreapp2.0\p02_rectangleArea.runtimeconfig.dev.json
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\bin\Debug\netcoreapp2.0\p02_rectangleArea.dll
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\bin\Debug\netcoreapp2.0\p02_rectangleArea.pdb
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\obj\Debug\netcoreapp2.0\p02_rectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\obj\Debug\netcoreapp2.0\p02_rectangleArea.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\obj\Debug\netcoreapp2.0\p02_rectangleArea.AssemblyInfo.cs
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\obj\Debug\netcoreapp2.0\p02_rectangleArea.dll
+C:\Users\user1\source\repos\IntroAndBasicSyntax_Exercises\p02_rectangleArea\obj\Debug\netcoreapp2.0\p02_rectangleArea.pdb

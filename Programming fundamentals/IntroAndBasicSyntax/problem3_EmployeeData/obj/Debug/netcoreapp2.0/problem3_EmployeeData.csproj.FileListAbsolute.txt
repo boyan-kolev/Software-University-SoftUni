@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\bin\Debug\netcoreapp2.0\problem3_EmployeeData.deps.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\bin\Debug\netcoreapp2.0\problem3_EmployeeData.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\bin\Debug\netcoreapp2.0\problem3_EmployeeData.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\bin\Debug\netcoreapp2.0\problem3_EmployeeData.dll
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\bin\Debug\netcoreapp2.0\problem3_EmployeeData.pdb
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\obj\Debug\netcoreapp2.0\problem3_EmployeeData.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\obj\Debug\netcoreapp2.0\problem3_EmployeeData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\obj\Debug\netcoreapp2.0\problem3_EmployeeData.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\obj\Debug\netcoreapp2.0\problem3_EmployeeData.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\obj\Debug\netcoreapp2.0\problem3_EmployeeData.dll
+D:\SoftUni\Programing fundamentals\problem1_Greeting\problem3_EmployeeData\obj\Debug\netcoreapp2.0\problem3_EmployeeData.pdb

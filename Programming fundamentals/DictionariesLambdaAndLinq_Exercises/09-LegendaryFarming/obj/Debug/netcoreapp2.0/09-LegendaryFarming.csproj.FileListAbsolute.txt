@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\bin\Debug\netcoreapp2.0\09-LegendaryFarming.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\bin\Debug\netcoreapp2.0\09-LegendaryFarming.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\bin\Debug\netcoreapp2.0\09-LegendaryFarming.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\bin\Debug\netcoreapp2.0\09-LegendaryFarming.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\bin\Debug\netcoreapp2.0\09-LegendaryFarming.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\obj\Debug\netcoreapp2.0\09-LegendaryFarming.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\obj\Debug\netcoreapp2.0\09-LegendaryFarming.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\obj\Debug\netcoreapp2.0\09-LegendaryFarming.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\obj\Debug\netcoreapp2.0\09-LegendaryFarming.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\obj\Debug\netcoreapp2.0\09-LegendaryFarming.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq_Exercises\09-LegendaryFarming\obj\Debug\netcoreapp2.0\09-LegendaryFarming.pdb

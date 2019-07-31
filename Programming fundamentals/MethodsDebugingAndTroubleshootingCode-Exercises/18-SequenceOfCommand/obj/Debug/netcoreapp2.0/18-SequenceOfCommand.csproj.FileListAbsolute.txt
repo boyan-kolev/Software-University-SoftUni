@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\bin\Debug\netcoreapp2.0\18-SequenceOfCommand.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\bin\Debug\netcoreapp2.0\18-SequenceOfCommand.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\bin\Debug\netcoreapp2.0\18-SequenceOfCommand.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\bin\Debug\netcoreapp2.0\18-SequenceOfCommand.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\bin\Debug\netcoreapp2.0\18-SequenceOfCommand.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\obj\Debug\netcoreapp2.0\18-SequenceOfCommand.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\obj\Debug\netcoreapp2.0\18-SequenceOfCommand.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\obj\Debug\netcoreapp2.0\18-SequenceOfCommand.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\obj\Debug\netcoreapp2.0\18-SequenceOfCommand.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\obj\Debug\netcoreapp2.0\18-SequenceOfCommand.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\18-SequenceOfCommand\obj\Debug\netcoreapp2.0\18-SequenceOfCommand.pdb

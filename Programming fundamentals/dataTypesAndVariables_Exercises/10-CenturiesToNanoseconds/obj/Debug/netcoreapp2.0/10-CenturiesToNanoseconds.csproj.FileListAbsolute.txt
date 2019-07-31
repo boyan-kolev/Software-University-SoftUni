@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\10-CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10-CenturiesToNanoseconds.pdb

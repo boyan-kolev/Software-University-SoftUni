@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\bin\Debug\netcoreapp2.0\10-PairsByDifference.deps.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\bin\Debug\netcoreapp2.0\10-PairsByDifference.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\bin\Debug\netcoreapp2.0\10-PairsByDifference.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\bin\Debug\netcoreapp2.0\10-PairsByDifference.dll
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\bin\Debug\netcoreapp2.0\10-PairsByDifference.pdb
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\obj\Debug\netcoreapp2.0\10-PairsByDifference.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\obj\Debug\netcoreapp2.0\10-PairsByDifference.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\obj\Debug\netcoreapp2.0\10-PairsByDifference.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\obj\Debug\netcoreapp2.0\10-PairsByDifference.dll
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\10-PairsByDifference\obj\Debug\netcoreapp2.0\10-PairsByDifference.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\bin\Debug\netcoreapp2.0\11-EqualSums.deps.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\bin\Debug\netcoreapp2.0\11-EqualSums.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\bin\Debug\netcoreapp2.0\11-EqualSums.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\bin\Debug\netcoreapp2.0\11-EqualSums.dll
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\bin\Debug\netcoreapp2.0\11-EqualSums.pdb
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\obj\Debug\netcoreapp2.0\11-EqualSums.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\obj\Debug\netcoreapp2.0\11-EqualSums.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\obj\Debug\netcoreapp2.0\11-EqualSums.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\obj\Debug\netcoreapp2.0\11-EqualSums.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\obj\Debug\netcoreapp2.0\11-EqualSums.dll
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\11-EqualSums\obj\Debug\netcoreapp2.0\11-EqualSums.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\bin\Debug\netcoreapp2.0\09-ReverseCharacters.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\bin\Debug\netcoreapp2.0\09-ReverseCharacters.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\bin\Debug\netcoreapp2.0\09-ReverseCharacters.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\bin\Debug\netcoreapp2.0\09-ReverseCharacters.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\bin\Debug\netcoreapp2.0\09-ReverseCharacters.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\obj\Debug\netcoreapp2.0\09-ReverseCharacters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\obj\Debug\netcoreapp2.0\09-ReverseCharacters.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\obj\Debug\netcoreapp2.0\09-ReverseCharacters.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\obj\Debug\netcoreapp2.0\09-ReverseCharacters.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\09-ReverseCharacters\obj\Debug\netcoreapp2.0\09-ReverseCharacters.pdb

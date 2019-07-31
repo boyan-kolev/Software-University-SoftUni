@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\bin\Debug\netcoreapp2.0\04-DrawAFillledSquare.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\bin\Debug\netcoreapp2.0\04-DrawAFillledSquare.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\bin\Debug\netcoreapp2.0\04-DrawAFillledSquare.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\bin\Debug\netcoreapp2.0\04-DrawAFillledSquare.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\bin\Debug\netcoreapp2.0\04-DrawAFillledSquare.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\obj\Debug\netcoreapp2.0\04-DrawAFillledSquare.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\obj\Debug\netcoreapp2.0\04-DrawAFillledSquare.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\obj\Debug\netcoreapp2.0\04-DrawAFillledSquare.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\obj\Debug\netcoreapp2.0\04-DrawAFillledSquare.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\04-DrawAFillledSquare\obj\Debug\netcoreapp2.0\04-DrawAFillledSquare.pdb

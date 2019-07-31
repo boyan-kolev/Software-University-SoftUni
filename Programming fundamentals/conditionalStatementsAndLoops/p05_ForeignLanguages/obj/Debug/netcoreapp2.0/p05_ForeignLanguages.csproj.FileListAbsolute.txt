@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\bin\Debug\netcoreapp2.0\p05_ForeignLanguages.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\bin\Debug\netcoreapp2.0\p05_ForeignLanguages.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\bin\Debug\netcoreapp2.0\p05_ForeignLanguages.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\bin\Debug\netcoreapp2.0\p05_ForeignLanguages.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\bin\Debug\netcoreapp2.0\p05_ForeignLanguages.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\obj\Debug\netcoreapp2.0\p05_ForeignLanguages.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\obj\Debug\netcoreapp2.0\p05_ForeignLanguages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\obj\Debug\netcoreapp2.0\p05_ForeignLanguages.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\obj\Debug\netcoreapp2.0\p05_ForeignLanguages.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\obj\Debug\netcoreapp2.0\p05_ForeignLanguages.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p05_ForeignLanguages\obj\Debug\netcoreapp2.0\p05_ForeignLanguages.pdb

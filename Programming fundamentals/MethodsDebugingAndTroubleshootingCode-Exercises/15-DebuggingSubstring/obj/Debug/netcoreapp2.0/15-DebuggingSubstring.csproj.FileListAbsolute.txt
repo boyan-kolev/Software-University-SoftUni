@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\bin\Debug\netcoreapp2.0\15-DebuggingSubstring.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\bin\Debug\netcoreapp2.0\15-DebuggingSubstring.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\bin\Debug\netcoreapp2.0\15-DebuggingSubstring.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\bin\Debug\netcoreapp2.0\15-DebuggingSubstring.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\bin\Debug\netcoreapp2.0\15-DebuggingSubstring.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\obj\Debug\netcoreapp2.0\15-DebuggingSubstring.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\obj\Debug\netcoreapp2.0\15-DebuggingSubstring.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\obj\Debug\netcoreapp2.0\15-DebuggingSubstring.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\obj\Debug\netcoreapp2.0\15-DebuggingSubstring.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\obj\Debug\netcoreapp2.0\15-DebuggingSubstring.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\15-DebuggingSubstring\obj\Debug\netcoreapp2.0\15-DebuggingSubstring.pdb

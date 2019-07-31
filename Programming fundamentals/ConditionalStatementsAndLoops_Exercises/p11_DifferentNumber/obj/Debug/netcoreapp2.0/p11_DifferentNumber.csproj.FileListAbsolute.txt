@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\bin\Debug\netcoreapp2.0\p11_DifferentNumber.deps.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\bin\Debug\netcoreapp2.0\p11_DifferentNumber.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\bin\Debug\netcoreapp2.0\p11_DifferentNumber.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\bin\Debug\netcoreapp2.0\p11_DifferentNumber.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\bin\Debug\netcoreapp2.0\p11_DifferentNumber.pdb
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\obj\Debug\netcoreapp2.0\p11_DifferentNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\obj\Debug\netcoreapp2.0\p11_DifferentNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\obj\Debug\netcoreapp2.0\p11_DifferentNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\obj\Debug\netcoreapp2.0\p11_DifferentNumber.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\obj\Debug\netcoreapp2.0\p11_DifferentNumber.dll
+D:\SoftUni\Programing fundamentals\ConditionalStatementsAndLoops_Exercises\p11_DifferentNumber\obj\Debug\netcoreapp2.0\p11_DifferentNumber.pdb

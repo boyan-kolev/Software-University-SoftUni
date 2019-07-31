@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\bin\Debug\netcoreapp2.0\08-EmployeeData.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\bin\Debug\netcoreapp2.0\08-EmployeeData.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\bin\Debug\netcoreapp2.0\08-EmployeeData.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\bin\Debug\netcoreapp2.0\08-EmployeeData.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\bin\Debug\netcoreapp2.0\08-EmployeeData.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\obj\Debug\netcoreapp2.0\08-EmployeeData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\obj\Debug\netcoreapp2.0\08-EmployeeData.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\obj\Debug\netcoreapp2.0\08-EmployeeData.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\obj\Debug\netcoreapp2.0\08-EmployeeData.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\08-EmployeeData\obj\Debug\netcoreapp2.0\08-EmployeeData.pdb

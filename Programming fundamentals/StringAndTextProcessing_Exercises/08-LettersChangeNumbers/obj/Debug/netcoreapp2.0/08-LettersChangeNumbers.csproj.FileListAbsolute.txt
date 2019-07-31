@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\bin\Debug\netcoreapp2.0\08-LettersChangeNumbers.deps.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\bin\Debug\netcoreapp2.0\08-LettersChangeNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\bin\Debug\netcoreapp2.0\08-LettersChangeNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\bin\Debug\netcoreapp2.0\08-LettersChangeNumbers.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\bin\Debug\netcoreapp2.0\08-LettersChangeNumbers.pdb
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\obj\Debug\netcoreapp2.0\08-LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\obj\Debug\netcoreapp2.0\08-LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\obj\Debug\netcoreapp2.0\08-LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\obj\Debug\netcoreapp2.0\08-LettersChangeNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\obj\Debug\netcoreapp2.0\08-LettersChangeNumbers.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\08-LettersChangeNumbers\obj\Debug\netcoreapp2.0\08-LettersChangeNumbers.pdb

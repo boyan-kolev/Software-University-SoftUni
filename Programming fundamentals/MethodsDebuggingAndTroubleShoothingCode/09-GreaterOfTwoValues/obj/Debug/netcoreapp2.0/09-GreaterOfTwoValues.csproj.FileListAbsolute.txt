@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09-GreaterOfTwoValues.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09-GreaterOfTwoValues.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09-GreaterOfTwoValues.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09-GreaterOfTwoValues.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\bin\Debug\netcoreapp2.0\09-GreaterOfTwoValues.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09-GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09-GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09-GreaterOfTwoValues.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09-GreaterOfTwoValues.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09-GreaterOfTwoValues.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\09-GreaterOfTwoValues\obj\Debug\netcoreapp2.0\09-GreaterOfTwoValues.csprojResolveAssemblyReference.cache

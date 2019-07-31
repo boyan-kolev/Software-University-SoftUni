@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04-SieveOfEratosthenes.deps.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04-SieveOfEratosthenes.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04-SieveOfEratosthenes.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04-SieveOfEratosthenes.dll
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\bin\Debug\netcoreapp2.0\04-SieveOfEratosthenes.pdb
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04-SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04-SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04-SieveOfEratosthenes.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04-SieveOfEratosthenes.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04-SieveOfEratosthenes.dll
+D:\SoftUni\Programing fundamentals\Arrays_Exercises\04-SieveOfEratosthenes\obj\Debug\netcoreapp2.0\04-SieveOfEratosthenes.pdb

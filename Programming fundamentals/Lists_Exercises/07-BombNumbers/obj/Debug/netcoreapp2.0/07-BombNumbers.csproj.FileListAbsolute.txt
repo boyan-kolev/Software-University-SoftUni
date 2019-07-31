@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\bin\Debug\netcoreapp2.0\07-BombNumbers.deps.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\bin\Debug\netcoreapp2.0\07-BombNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\bin\Debug\netcoreapp2.0\07-BombNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\bin\Debug\netcoreapp2.0\07-BombNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\bin\Debug\netcoreapp2.0\07-BombNumbers.pdb
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\obj\Debug\netcoreapp2.0\07-BombNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\obj\Debug\netcoreapp2.0\07-BombNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\obj\Debug\netcoreapp2.0\07-BombNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\obj\Debug\netcoreapp2.0\07-BombNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\obj\Debug\netcoreapp2.0\07-BombNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists_Exercises\07-BombNumbers\obj\Debug\netcoreapp2.0\07-BombNumbers.pdb

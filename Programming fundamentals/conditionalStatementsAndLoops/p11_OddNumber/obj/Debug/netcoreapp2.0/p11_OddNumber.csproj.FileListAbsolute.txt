@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\bin\Debug\netcoreapp2.0\p11_OddNumber.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\bin\Debug\netcoreapp2.0\p11_OddNumber.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\bin\Debug\netcoreapp2.0\p11_OddNumber.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\bin\Debug\netcoreapp2.0\p11_OddNumber.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\bin\Debug\netcoreapp2.0\p11_OddNumber.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\obj\Debug\netcoreapp2.0\p11_OddNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\obj\Debug\netcoreapp2.0\p11_OddNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\obj\Debug\netcoreapp2.0\p11_OddNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\obj\Debug\netcoreapp2.0\p11_OddNumber.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\obj\Debug\netcoreapp2.0\p11_OddNumber.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p11_OddNumber\obj\Debug\netcoreapp2.0\p11_OddNumber.pdb

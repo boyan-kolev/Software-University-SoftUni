@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\bin\Debug\netcoreapp2.0\06-StringAndObjects.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\bin\Debug\netcoreapp2.0\06-StringAndObjects.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\bin\Debug\netcoreapp2.0\06-StringAndObjects.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\bin\Debug\netcoreapp2.0\06-StringAndObjects.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\bin\Debug\netcoreapp2.0\06-StringAndObjects.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\obj\Debug\netcoreapp2.0\06-StringAndObjects.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\obj\Debug\netcoreapp2.0\06-StringAndObjects.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\obj\Debug\netcoreapp2.0\06-StringAndObjects.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\obj\Debug\netcoreapp2.0\06-StringAndObjects.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\06-StringAndObjects\obj\Debug\netcoreapp2.0\06-StringAndObjects.pdb

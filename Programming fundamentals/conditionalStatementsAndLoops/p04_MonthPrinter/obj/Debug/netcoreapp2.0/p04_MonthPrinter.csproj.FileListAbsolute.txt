@@ -1,0 +1,10 @@
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\bin\Debug\netcoreapp2.0\p04_MonthPrinter.deps.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\bin\Debug\netcoreapp2.0\p04_MonthPrinter.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\bin\Debug\netcoreapp2.0\p04_MonthPrinter.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\bin\Debug\netcoreapp2.0\p04_MonthPrinter.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\bin\Debug\netcoreapp2.0\p04_MonthPrinter.pdb
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\obj\Debug\netcoreapp2.0\p04_MonthPrinter.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\obj\Debug\netcoreapp2.0\p04_MonthPrinter.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\obj\Debug\netcoreapp2.0\p04_MonthPrinter.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\obj\Debug\netcoreapp2.0\p04_MonthPrinter.dll
+D:\SoftUni\Programing fundamentals\conditionalStatementsAndLoops\p04_MonthPrinter\obj\Debug\netcoreapp2.0\p04_MonthPrinter.pdb

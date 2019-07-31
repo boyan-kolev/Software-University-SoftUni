@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\obj\Debug\netcoreapp2.0\03-PrintingTriangle2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\obj\Debug\netcoreapp2.0\03-PrintingTriangle2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\obj\Debug\netcoreapp2.0\03-PrintingTriangle2.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\bin\Debug\netcoreapp2.0\03-PrintingTriangle2.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\bin\Debug\netcoreapp2.0\03-PrintingTriangle2.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\bin\Debug\netcoreapp2.0\03-PrintingTriangle2.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\bin\Debug\netcoreapp2.0\03-PrintingTriangle2.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\bin\Debug\netcoreapp2.0\03-PrintingTriangle2.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\obj\Debug\netcoreapp2.0\03-PrintingTriangle2.dll
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\obj\Debug\netcoreapp2.0\03-PrintingTriangle2.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebuggingAndTroubleShoothingCode\03-PrintingTriangle2\obj\Debug\netcoreapp2.0\03-PrintingTriangle2.csprojResolveAssemblyReference.cache

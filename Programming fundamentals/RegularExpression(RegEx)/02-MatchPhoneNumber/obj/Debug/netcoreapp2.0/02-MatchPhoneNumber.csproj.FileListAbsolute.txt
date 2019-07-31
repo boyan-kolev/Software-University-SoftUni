@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\bin\Debug\netcoreapp2.0\02-MatchPhoneNumber.deps.json
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\bin\Debug\netcoreapp2.0\02-MatchPhoneNumber.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\bin\Debug\netcoreapp2.0\02-MatchPhoneNumber.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\bin\Debug\netcoreapp2.0\02-MatchPhoneNumber.dll
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\bin\Debug\netcoreapp2.0\02-MatchPhoneNumber.pdb
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\obj\Debug\netcoreapp2.0\02-MatchPhoneNumber.csprojAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\obj\Debug\netcoreapp2.0\02-MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\obj\Debug\netcoreapp2.0\02-MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\obj\Debug\netcoreapp2.0\02-MatchPhoneNumber.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\obj\Debug\netcoreapp2.0\02-MatchPhoneNumber.dll
+D:\SoftUni\Programing fundamentals\RegularExpression(RegEx)\02-MatchPhoneNumber\obj\Debug\netcoreapp2.0\02-MatchPhoneNumber.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\bin\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.deps.json
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\bin\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\bin\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\bin\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\bin\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.pdb
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\obj\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\obj\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\obj\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\obj\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\obj\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.dll
+D:\SoftUni\Programing fundamentals\Lists\03-SumAdjecentEqualNumbers\obj\Debug\netcoreapp2.0\03-SumAdjecentEqualNumbers.pdb

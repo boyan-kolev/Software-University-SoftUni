@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\bin\Debug\netcoreapp2.0\p04_BeverageLabel.deps.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\bin\Debug\netcoreapp2.0\p04_BeverageLabel.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\bin\Debug\netcoreapp2.0\p04_BeverageLabel.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\bin\Debug\netcoreapp2.0\p04_BeverageLabel.dll
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\bin\Debug\netcoreapp2.0\p04_BeverageLabel.pdb
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\obj\Debug\netcoreapp2.0\p04_BeverageLabel.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\obj\Debug\netcoreapp2.0\p04_BeverageLabel.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\obj\Debug\netcoreapp2.0\p04_BeverageLabel.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\obj\Debug\netcoreapp2.0\p04_BeverageLabel.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\obj\Debug\netcoreapp2.0\p04_BeverageLabel.dll
+D:\SoftUni\Programing fundamentals\IntroAndBasicSyntax_Exercises\p04_BeverageLabel\obj\Debug\netcoreapp2.0\p04_BeverageLabel.pdb

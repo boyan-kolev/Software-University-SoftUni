@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\bin\Debug\netcoreapp2.0\06-FoldAndSum.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\bin\Debug\netcoreapp2.0\06-FoldAndSum.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\bin\Debug\netcoreapp2.0\06-FoldAndSum.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\bin\Debug\netcoreapp2.0\06-FoldAndSum.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\bin\Debug\netcoreapp2.0\06-FoldAndSum.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\obj\Debug\netcoreapp2.0\06-FoldAndSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\obj\Debug\netcoreapp2.0\06-FoldAndSum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\obj\Debug\netcoreapp2.0\06-FoldAndSum.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\obj\Debug\netcoreapp2.0\06-FoldAndSum.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\obj\Debug\netcoreapp2.0\06-FoldAndSum.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\06-FoldAndSum\obj\Debug\netcoreapp2.0\06-FoldAndSum.pdb

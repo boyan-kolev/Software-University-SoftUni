@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\bin\Debug\netcoreapp2.0\17-BePositive.deps.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\bin\Debug\netcoreapp2.0\17-BePositive.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\bin\Debug\netcoreapp2.0\17-BePositive.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\bin\Debug\netcoreapp2.0\17-BePositive.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\bin\Debug\netcoreapp2.0\17-BePositive.pdb
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\obj\Debug\netcoreapp2.0\17-BePositive.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\obj\Debug\netcoreapp2.0\17-BePositive.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\obj\Debug\netcoreapp2.0\17-BePositive.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\obj\Debug\netcoreapp2.0\17-BePositive.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\obj\Debug\netcoreapp2.0\17-BePositive.dll
+D:\SoftUni\Programing fundamentals\MethodsDebugingAndTroubleshootingCode-Exercises\17-BePositive\obj\Debug\netcoreapp2.0\17-BePositive.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\bin\Debug\netcoreapp2.0\01-DayOfWeek2.deps.json
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\bin\Debug\netcoreapp2.0\01-DayOfWeek2.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\bin\Debug\netcoreapp2.0\01-DayOfWeek2.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\bin\Debug\netcoreapp2.0\01-DayOfWeek2.dll
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\bin\Debug\netcoreapp2.0\01-DayOfWeek2.pdb
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\obj\Debug\netcoreapp2.0\01-DayOfWeek2.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\obj\Debug\netcoreapp2.0\01-DayOfWeek2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\obj\Debug\netcoreapp2.0\01-DayOfWeek2.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\obj\Debug\netcoreapp2.0\01-DayOfWeek2.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\obj\Debug\netcoreapp2.0\01-DayOfWeek2.dll
+D:\SoftUni\Programing fundamentals\Arrays\01-DayOfWeek2\obj\Debug\netcoreapp2.0\01-DayOfWeek2.pdb

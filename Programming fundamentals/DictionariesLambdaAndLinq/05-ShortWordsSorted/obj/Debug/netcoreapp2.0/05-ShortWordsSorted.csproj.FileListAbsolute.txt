@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\bin\Debug\netcoreapp2.0\05-ShortWordsSorted.deps.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\bin\Debug\netcoreapp2.0\05-ShortWordsSorted.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\bin\Debug\netcoreapp2.0\05-ShortWordsSorted.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\bin\Debug\netcoreapp2.0\05-ShortWordsSorted.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\bin\Debug\netcoreapp2.0\05-ShortWordsSorted.pdb
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\obj\Debug\netcoreapp2.0\05-ShortWordsSorted.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\obj\Debug\netcoreapp2.0\05-ShortWordsSorted.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\obj\Debug\netcoreapp2.0\05-ShortWordsSorted.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\obj\Debug\netcoreapp2.0\05-ShortWordsSorted.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\obj\Debug\netcoreapp2.0\05-ShortWordsSorted.dll
+D:\SoftUni\Programing fundamentals\DictionariesLambdaAndLinq\05-ShortWordsSorted\obj\Debug\netcoreapp2.0\05-ShortWordsSorted.pdb

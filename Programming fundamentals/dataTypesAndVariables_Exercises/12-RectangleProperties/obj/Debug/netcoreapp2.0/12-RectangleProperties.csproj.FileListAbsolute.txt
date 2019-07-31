@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\bin\Debug\netcoreapp2.0\12-RectangleProperties.deps.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\bin\Debug\netcoreapp2.0\12-RectangleProperties.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\bin\Debug\netcoreapp2.0\12-RectangleProperties.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\bin\Debug\netcoreapp2.0\12-RectangleProperties.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\bin\Debug\netcoreapp2.0\12-RectangleProperties.pdb
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\obj\Debug\netcoreapp2.0\12-RectangleProperties.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\obj\Debug\netcoreapp2.0\12-RectangleProperties.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\obj\Debug\netcoreapp2.0\12-RectangleProperties.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\obj\Debug\netcoreapp2.0\12-RectangleProperties.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\obj\Debug\netcoreapp2.0\12-RectangleProperties.dll
+D:\SoftUni\Programing fundamentals\dataTypesAndVariables_Exercises\12-RectangleProperties\obj\Debug\netcoreapp2.0\12-RectangleProperties.pdb

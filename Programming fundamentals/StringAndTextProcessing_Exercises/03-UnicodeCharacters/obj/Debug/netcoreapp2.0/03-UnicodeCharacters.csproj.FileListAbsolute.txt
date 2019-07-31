@@ -1,0 +1,11 @@
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\bin\Debug\netcoreapp2.0\03-UnicodeCharacters.deps.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\bin\Debug\netcoreapp2.0\03-UnicodeCharacters.runtimeconfig.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\bin\Debug\netcoreapp2.0\03-UnicodeCharacters.runtimeconfig.dev.json
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\bin\Debug\netcoreapp2.0\03-UnicodeCharacters.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\bin\Debug\netcoreapp2.0\03-UnicodeCharacters.pdb
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\obj\Debug\netcoreapp2.0\03-UnicodeCharacters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\obj\Debug\netcoreapp2.0\03-UnicodeCharacters.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\obj\Debug\netcoreapp2.0\03-UnicodeCharacters.AssemblyInfoInputs.cache
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\obj\Debug\netcoreapp2.0\03-UnicodeCharacters.AssemblyInfo.cs
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\obj\Debug\netcoreapp2.0\03-UnicodeCharacters.dll
+D:\SoftUni\Programing fundamentals\StringAndTextProcessing_Exercises\03-UnicodeCharacters\obj\Debug\netcoreapp2.0\03-UnicodeCharacters.pdb
