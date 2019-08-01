@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\bin\Debug\netcoreapp2.1\02-GenericBogOfInteger.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\bin\Debug\netcoreapp2.1\02-GenericBogOfInteger.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\bin\Debug\netcoreapp2.1\02-GenericBogOfInteger.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\bin\Debug\netcoreapp2.1\02-GenericBogOfInteger.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\bin\Debug\netcoreapp2.1\02-GenericBogOfInteger.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\obj\Debug\netcoreapp2.1\02-GenericBogOfInteger.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\obj\Debug\netcoreapp2.1\02-GenericBogOfInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\obj\Debug\netcoreapp2.1\02-GenericBogOfInteger.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\obj\Debug\netcoreapp2.1\02-GenericBogOfInteger.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\obj\Debug\netcoreapp2.1\02-GenericBogOfInteger.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\02-GenericBogOfInteger\obj\Debug\netcoreapp2.1\02-GenericBogOfInteger.pdb

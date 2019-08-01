@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\bin\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\06-GenericCountMethodDoubles\obj\Debug\netcoreapp2.1\06-GenericCountMethodDoubles.pdb

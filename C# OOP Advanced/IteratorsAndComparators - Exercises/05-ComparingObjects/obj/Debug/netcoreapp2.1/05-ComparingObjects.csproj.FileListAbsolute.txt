@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\bin\Debug\netcoreapp2.1\05-ComparingObjects.deps.json
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\bin\Debug\netcoreapp2.1\05-ComparingObjects.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\bin\Debug\netcoreapp2.1\05-ComparingObjects.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\bin\Debug\netcoreapp2.1\05-ComparingObjects.dll
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\bin\Debug\netcoreapp2.1\05-ComparingObjects.pdb
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\obj\Debug\netcoreapp2.1\05-ComparingObjects.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\obj\Debug\netcoreapp2.1\05-ComparingObjects.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\obj\Debug\netcoreapp2.1\05-ComparingObjects.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\obj\Debug\netcoreapp2.1\05-ComparingObjects.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\obj\Debug\netcoreapp2.1\05-ComparingObjects.dll
+D:\SoftUni\C# OOP Advanced\IteratorsAndComparators - Exercises\05-ComparingObjects\obj\Debug\netcoreapp2.1\05-ComparingObjects.pdb

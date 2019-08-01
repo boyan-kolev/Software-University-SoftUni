@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\bin\Debug\netcoreapp2.1\02-GenericArrayCreator.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\bin\Debug\netcoreapp2.1\02-GenericArrayCreator.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\bin\Debug\netcoreapp2.1\02-GenericArrayCreator.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\bin\Debug\netcoreapp2.1\02-GenericArrayCreator.dll
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\bin\Debug\netcoreapp2.1\02-GenericArrayCreator.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\obj\Debug\netcoreapp2.1\02-GenericArrayCreator.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\obj\Debug\netcoreapp2.1\02-GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\obj\Debug\netcoreapp2.1\02-GenericArrayCreator.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\obj\Debug\netcoreapp2.1\02-GenericArrayCreator.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\obj\Debug\netcoreapp2.1\02-GenericArrayCreator.dll
+D:\SoftUni\C# OOP Advanced\Generics - Lab\02-GenericArrayCreator\obj\Debug\netcoreapp2.1\02-GenericArrayCreator.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\bin\Debug\netcoreapp2.1\Skeleton.deps.json
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\bin\Debug\netcoreapp2.1\Skeleton.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\bin\Debug\netcoreapp2.1\Skeleton.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\bin\Debug\netcoreapp2.1\Skeleton.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\bin\Debug\netcoreapp2.1\Skeleton.pdb
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\obj\Debug\netcoreapp2.1\Skeleton.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\obj\Debug\netcoreapp2.1\Skeleton.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\obj\Debug\netcoreapp2.1\Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\obj\Debug\netcoreapp2.1\Skeleton.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\obj\Debug\netcoreapp2.1\Skeleton.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Lab\01-TestAxe\obj\Debug\netcoreapp2.1\Skeleton.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\bin\Debug\netcoreapp2.1\04-Collector.deps.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\bin\Debug\netcoreapp2.1\04-Collector.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\bin\Debug\netcoreapp2.1\04-Collector.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\bin\Debug\netcoreapp2.1\04-Collector.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\bin\Debug\netcoreapp2.1\04-Collector.pdb
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\obj\Debug\netcoreapp2.1\04-Collector.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\obj\Debug\netcoreapp2.1\04-Collector.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\obj\Debug\netcoreapp2.1\04-Collector.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\obj\Debug\netcoreapp2.1\04-Collector.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\obj\Debug\netcoreapp2.1\04-Collector.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\04-Collector\obj\Debug\netcoreapp2.1\04-Collector.pdb

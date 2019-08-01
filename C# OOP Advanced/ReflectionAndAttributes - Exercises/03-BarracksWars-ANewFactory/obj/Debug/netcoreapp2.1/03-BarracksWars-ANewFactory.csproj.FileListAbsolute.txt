@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\obj\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\obj\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\obj\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\obj\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\bin\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.deps.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\bin\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\bin\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\bin\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\bin\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.pdb
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\obj\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\03-BarracksWars-ANewFactory\obj\Debug\netcoreapp2.1\03-BarracksWars-ANewFactory.pdb

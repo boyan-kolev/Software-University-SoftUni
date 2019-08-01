@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\bin\Debug\netcoreapp2.1\08-CustomListSorter.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\bin\Debug\netcoreapp2.1\08-CustomListSorter.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\bin\Debug\netcoreapp2.1\08-CustomListSorter.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\bin\Debug\netcoreapp2.1\08-CustomListSorter.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\bin\Debug\netcoreapp2.1\08-CustomListSorter.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\obj\Debug\netcoreapp2.1\08-CustomListSorter.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\obj\Debug\netcoreapp2.1\08-CustomListSorter.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\obj\Debug\netcoreapp2.1\08-CustomListSorter.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\obj\Debug\netcoreapp2.1\08-CustomListSorter.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\obj\Debug\netcoreapp2.1\08-CustomListSorter.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\08-CustomListSorter\obj\Debug\netcoreapp2.1\08-CustomListSorter.pdb

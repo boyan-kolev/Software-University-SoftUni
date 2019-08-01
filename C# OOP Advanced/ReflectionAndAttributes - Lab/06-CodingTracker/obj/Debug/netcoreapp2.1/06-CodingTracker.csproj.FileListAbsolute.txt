@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\bin\Debug\netcoreapp2.1\06-CodingTracker.deps.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\bin\Debug\netcoreapp2.1\06-CodingTracker.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\bin\Debug\netcoreapp2.1\06-CodingTracker.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\bin\Debug\netcoreapp2.1\06-CodingTracker.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\bin\Debug\netcoreapp2.1\06-CodingTracker.pdb
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\obj\Debug\netcoreapp2.1\06-CodingTracker.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\obj\Debug\netcoreapp2.1\06-CodingTracker.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\obj\Debug\netcoreapp2.1\06-CodingTracker.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\obj\Debug\netcoreapp2.1\06-CodingTracker.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\obj\Debug\netcoreapp2.1\06-CodingTracker.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\06-CodingTracker\obj\Debug\netcoreapp2.1\06-CodingTracker.pdb

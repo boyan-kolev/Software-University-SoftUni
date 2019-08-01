@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\obj\Debug\netcoreapp2.1\02-HighQualityMistakes.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\obj\Debug\netcoreapp2.1\02-HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\obj\Debug\netcoreapp2.1\02-HighQualityMistakes.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\obj\Debug\netcoreapp2.1\02-HighQualityMistakes.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\bin\Debug\netcoreapp2.1\02-HighQualityMistakes.deps.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\bin\Debug\netcoreapp2.1\02-HighQualityMistakes.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\bin\Debug\netcoreapp2.1\02-HighQualityMistakes.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\bin\Debug\netcoreapp2.1\02-HighQualityMistakes.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\bin\Debug\netcoreapp2.1\02-HighQualityMistakes.pdb
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\obj\Debug\netcoreapp2.1\02-HighQualityMistakes.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Lab\02-HighQualityMistakes\obj\Debug\netcoreapp2.1\02-HighQualityMistakes.pdb

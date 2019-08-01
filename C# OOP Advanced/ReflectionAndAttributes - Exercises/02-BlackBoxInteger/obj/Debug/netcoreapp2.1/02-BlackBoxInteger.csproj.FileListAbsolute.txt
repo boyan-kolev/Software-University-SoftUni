@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\bin\Debug\netcoreapp2.1\02-BlackBoxInteger.deps.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\bin\Debug\netcoreapp2.1\02-BlackBoxInteger.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\bin\Debug\netcoreapp2.1\02-BlackBoxInteger.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\bin\Debug\netcoreapp2.1\02-BlackBoxInteger.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\bin\Debug\netcoreapp2.1\02-BlackBoxInteger.pdb
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\obj\Debug\netcoreapp2.1\02-BlackBoxInteger.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\obj\Debug\netcoreapp2.1\02-BlackBoxInteger.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\obj\Debug\netcoreapp2.1\02-BlackBoxInteger.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\obj\Debug\netcoreapp2.1\02-BlackBoxInteger.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\obj\Debug\netcoreapp2.1\02-BlackBoxInteger.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\02-BlackBoxInteger\obj\Debug\netcoreapp2.1\02-BlackBoxInteger.pdb

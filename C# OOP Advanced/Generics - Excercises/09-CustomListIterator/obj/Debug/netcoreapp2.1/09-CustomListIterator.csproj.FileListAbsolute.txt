@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\bin\Debug\netcoreapp2.1\09-CustomListIterator.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\bin\Debug\netcoreapp2.1\09-CustomListIterator.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\bin\Debug\netcoreapp2.1\09-CustomListIterator.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\bin\Debug\netcoreapp2.1\09-CustomListIterator.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\bin\Debug\netcoreapp2.1\09-CustomListIterator.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\obj\Debug\netcoreapp2.1\09-CustomListIterator.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\obj\Debug\netcoreapp2.1\09-CustomListIterator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\obj\Debug\netcoreapp2.1\09-CustomListIterator.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\obj\Debug\netcoreapp2.1\09-CustomListIterator.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\obj\Debug\netcoreapp2.1\09-CustomListIterator.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\09-CustomListIterator\obj\Debug\netcoreapp2.1\09-CustomListIterator.pdb

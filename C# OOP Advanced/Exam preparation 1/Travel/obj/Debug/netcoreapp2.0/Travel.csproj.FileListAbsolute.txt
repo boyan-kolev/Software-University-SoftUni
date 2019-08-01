@@ -1,0 +1,11 @@
+D:\Current files\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+D:\Current files\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+D:\Current files\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+D:\Current files\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+D:\Current files\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+D:\Current files\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+D:\Current files\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+D:\Current files\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+D:\Current files\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+D:\Current files\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+D:\Current files\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

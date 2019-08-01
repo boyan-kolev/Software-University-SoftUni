@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\bin\Debug\netcoreapp2.1\03-GenericScale.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\bin\Debug\netcoreapp2.1\03-GenericScale.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\bin\Debug\netcoreapp2.1\03-GenericScale.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\bin\Debug\netcoreapp2.1\03-GenericScale.dll
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\bin\Debug\netcoreapp2.1\03-GenericScale.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\obj\Debug\netcoreapp2.1\03-GenericScale.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\obj\Debug\netcoreapp2.1\03-GenericScale.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\obj\Debug\netcoreapp2.1\03-GenericScale.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\obj\Debug\netcoreapp2.1\03-GenericScale.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\obj\Debug\netcoreapp2.1\03-GenericScale.dll
+D:\SoftUni\C# OOP Advanced\Generics - Lab\03-GenericScale\obj\Debug\netcoreapp2.1\03-GenericScale.pdb

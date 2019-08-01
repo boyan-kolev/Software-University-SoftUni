@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\obj\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\obj\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\obj\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\obj\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\bin\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.deps.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\bin\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\bin\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\bin\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\bin\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.pdb
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\obj\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.dll
+D:\SoftUni\C# OOP Advanced\ReflectionAndAttributes - Exercises\04-BarracksWars-TheCommandStrikeBack\obj\Debug\netcoreapp2.1\04-BarracksWars-TheCommandStrikeBack.pdb

@@ -1,0 +1,17 @@
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\01-Database.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\DatabaseTests.deps.json
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\DatabaseTests.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\DatabaseTests.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\DatabaseTests.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\DatabaseTests.pdb
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\bin\Debug\netcoreapp2.1\01-Database.pdb
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.csproj.CopyComplete
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.dll
+D:\SoftUni\C# OOP Advanced\UnitTesting - Exercises\DatabaseTests\obj\Debug\netcoreapp2.1\DatabaseTests.pdb

@@ -1,0 +1,17 @@
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.deps.json
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.json
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.runtimeconfig.dev.json
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csprojAssemblyReference.cache
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CoreCompileInputs.cache
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfoInputs.cache
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.AssemblyInfo.cs
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.dll
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.pdb
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.dll
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\bin\Debug\netcoreapp2.1\TheTankGame.pdb
+D:\Current files\Exam - 16.12.2018\Skeleton (.NET Core)\TheTankGame\TheTankGame.Tests\obj\Debug\netcoreapp2.1\TheTankGame.Tests.csproj.CopyComplete

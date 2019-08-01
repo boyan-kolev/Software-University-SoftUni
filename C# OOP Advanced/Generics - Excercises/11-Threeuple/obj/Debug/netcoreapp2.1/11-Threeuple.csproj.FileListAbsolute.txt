@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\bin\Debug\netcoreapp2.1\11-Threeuple.deps.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\bin\Debug\netcoreapp2.1\11-Threeuple.runtimeconfig.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\bin\Debug\netcoreapp2.1\11-Threeuple.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\bin\Debug\netcoreapp2.1\11-Threeuple.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\bin\Debug\netcoreapp2.1\11-Threeuple.pdb
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\obj\Debug\netcoreapp2.1\11-Threeuple.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\obj\Debug\netcoreapp2.1\11-Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\obj\Debug\netcoreapp2.1\11-Threeuple.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\obj\Debug\netcoreapp2.1\11-Threeuple.AssemblyInfo.cs
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\obj\Debug\netcoreapp2.1\11-Threeuple.dll
+D:\SoftUni\C# OOP Advanced\Generics - Excercises\11-Threeuple\obj\Debug\netcoreapp2.1\11-Threeuple.pdb
