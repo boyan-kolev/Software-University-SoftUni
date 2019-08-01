@@ -1,0 +1,11 @@
+D:\issue\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+D:\issue\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+D:\issue\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+D:\issue\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+D:\issue\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+D:\issue\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+D:\issue\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+D:\issue\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+D:\issue\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+D:\issue\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+D:\issue\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb

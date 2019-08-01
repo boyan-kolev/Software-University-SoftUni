@@ -1,0 +1,32 @@
+.redBorder{
+    border: solid 3px red;
+    border-radius: 7px;
+    text-align: center;
+    background: #b2b2b2;
+}
+
+.redWord{
+    color: red;
+}
+
+.greenBorder{
+    border: solid 3px green;
+    border-radius: 7px;
+    text-align: center;
+    background: #b2b2b2;
+}
+
+.greenWord{
+    color: green;
+}
+
+.blueBorder{
+    border: solid 3px blue;
+    border-radius: 7px;
+    text-align: center;
+    background: #b2b2b2;
+}
+
+.blueWord{
+    color: blue;
+}
