@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\bin\Debug\netcoreapp2.0\06-CompanyRoster.deps.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\bin\Debug\netcoreapp2.0\06-CompanyRoster.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\bin\Debug\netcoreapp2.0\06-CompanyRoster.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\bin\Debug\netcoreapp2.0\06-CompanyRoster.dll
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\bin\Debug\netcoreapp2.0\06-CompanyRoster.pdb
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\obj\Debug\netcoreapp2.0\06-CompanyRoster.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\obj\Debug\netcoreapp2.0\06-CompanyRoster.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\obj\Debug\netcoreapp2.0\06-CompanyRoster.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\obj\Debug\netcoreapp2.0\06-CompanyRoster.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\obj\Debug\netcoreapp2.0\06-CompanyRoster.dll
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\06-CompanyRoster\obj\Debug\netcoreapp2.0\06-CompanyRoster.pdb

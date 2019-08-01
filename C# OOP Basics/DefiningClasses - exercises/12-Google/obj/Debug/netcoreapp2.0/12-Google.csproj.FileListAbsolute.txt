@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\bin\Debug\netcoreapp2.0\12-Google.deps.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\bin\Debug\netcoreapp2.0\12-Google.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\bin\Debug\netcoreapp2.0\12-Google.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\bin\Debug\netcoreapp2.0\12-Google.dll
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\bin\Debug\netcoreapp2.0\12-Google.pdb
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\obj\Debug\netcoreapp2.0\12-Google.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\obj\Debug\netcoreapp2.0\12-Google.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\obj\Debug\netcoreapp2.0\12-Google.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\obj\Debug\netcoreapp2.0\12-Google.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\obj\Debug\netcoreapp2.0\12-Google.dll
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\12-Google\obj\Debug\netcoreapp2.0\12-Google.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\bin\Debug\netcoreapp2.0\01-ClassBox.deps.json
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\bin\Debug\netcoreapp2.0\01-ClassBox.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\bin\Debug\netcoreapp2.0\01-ClassBox.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\bin\Debug\netcoreapp2.0\01-ClassBox.dll
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\bin\Debug\netcoreapp2.0\01-ClassBox.pdb
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\obj\Debug\netcoreapp2.0\01-ClassBox.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\obj\Debug\netcoreapp2.0\01-ClassBox.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\obj\Debug\netcoreapp2.0\01-ClassBox.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\obj\Debug\netcoreapp2.0\01-ClassBox.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\obj\Debug\netcoreapp2.0\01-ClassBox.dll
+D:\SoftUni\C# OOP Basics\Encapsulation - Exercises\01-ClassBox\obj\Debug\netcoreapp2.0\01-ClassBox.pdb

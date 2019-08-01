@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\bin\Debug\netcoreapp2.0\p03-StudentSystem.deps.json
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\bin\Debug\netcoreapp2.0\p03-StudentSystem.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\bin\Debug\netcoreapp2.0\p03-StudentSystem.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\bin\Debug\netcoreapp2.0\p03-StudentSystem.dll
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\bin\Debug\netcoreapp2.0\p03-StudentSystem.pdb
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\obj\Debug\netcoreapp2.0\p03-StudentSystem.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\obj\Debug\netcoreapp2.0\p03-StudentSystem.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\obj\Debug\netcoreapp2.0\p03-StudentSystem.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\obj\Debug\netcoreapp2.0\p03-StudentSystem.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\obj\Debug\netcoreapp2.0\p03-StudentSystem.dll
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p03-StudentSystem\obj\Debug\netcoreapp2.0\p03-StudentSystem.pdb

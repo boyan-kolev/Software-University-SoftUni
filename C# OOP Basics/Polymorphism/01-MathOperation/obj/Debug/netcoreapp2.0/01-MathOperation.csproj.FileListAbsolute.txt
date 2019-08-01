@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\bin\Debug\netcoreapp2.0\01-MathOperation.deps.json
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\bin\Debug\netcoreapp2.0\01-MathOperation.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\bin\Debug\netcoreapp2.0\01-MathOperation.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\bin\Debug\netcoreapp2.0\01-MathOperation.dll
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\bin\Debug\netcoreapp2.0\01-MathOperation.pdb
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\obj\Debug\netcoreapp2.0\01-MathOperation.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\obj\Debug\netcoreapp2.0\01-MathOperation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\obj\Debug\netcoreapp2.0\01-MathOperation.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\obj\Debug\netcoreapp2.0\01-MathOperation.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\obj\Debug\netcoreapp2.0\01-MathOperation.dll
+D:\SoftUni\C# OOP Basics\Polymorphism\01-MathOperation\obj\Debug\netcoreapp2.0\01-MathOperation.pdb

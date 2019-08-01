@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\bin\Debug\netcoreapp2.0\03-HierarchicalInheritance.deps.json
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\bin\Debug\netcoreapp2.0\03-HierarchicalInheritance.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\bin\Debug\netcoreapp2.0\03-HierarchicalInheritance.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\bin\Debug\netcoreapp2.0\03-HierarchicalInheritance.dll
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\bin\Debug\netcoreapp2.0\03-HierarchicalInheritance.pdb
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\obj\Debug\netcoreapp2.0\03-HierarchicalInheritance.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\obj\Debug\netcoreapp2.0\03-HierarchicalInheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\obj\Debug\netcoreapp2.0\03-HierarchicalInheritance.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\obj\Debug\netcoreapp2.0\03-HierarchicalInheritance.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\obj\Debug\netcoreapp2.0\03-HierarchicalInheritance.dll
+D:\SoftUni\C# OOP Basics\Inheritance\03-HierarchicalInheritance\obj\Debug\netcoreapp2.0\03-HierarchicalInheritance.pdb

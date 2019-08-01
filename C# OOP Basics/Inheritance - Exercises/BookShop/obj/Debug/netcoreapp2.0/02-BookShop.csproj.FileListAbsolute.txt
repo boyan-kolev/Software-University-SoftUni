@@ -1,0 +1,10 @@
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\bin\Debug\netcoreapp2.0\02-BookShop.deps.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\bin\Debug\netcoreapp2.0\02-BookShop.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\bin\Debug\netcoreapp2.0\02-BookShop.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\bin\Debug\netcoreapp2.0\02-BookShop.dll
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\bin\Debug\netcoreapp2.0\02-BookShop.pdb
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\obj\Debug\netcoreapp2.0\02-BookShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\obj\Debug\netcoreapp2.0\02-BookShop.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\obj\Debug\netcoreapp2.0\02-BookShop.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\obj\Debug\netcoreapp2.0\02-BookShop.dll
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\BookShop\obj\Debug\netcoreapp2.0\02-BookShop.pdb

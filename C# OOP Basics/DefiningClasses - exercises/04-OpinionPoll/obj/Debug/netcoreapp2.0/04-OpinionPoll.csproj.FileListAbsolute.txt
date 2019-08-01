@@ -1,0 +1,10 @@
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\bin\Debug\netcoreapp2.0\04-OpinionPoll.deps.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\bin\Debug\netcoreapp2.0\04-OpinionPoll.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\bin\Debug\netcoreapp2.0\04-OpinionPoll.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\bin\Debug\netcoreapp2.0\04-OpinionPoll.dll
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\bin\Debug\netcoreapp2.0\04-OpinionPoll.pdb
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\obj\Debug\netcoreapp2.0\04-OpinionPoll.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\obj\Debug\netcoreapp2.0\04-OpinionPoll.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\obj\Debug\netcoreapp2.0\04-OpinionPoll.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\obj\Debug\netcoreapp2.0\04-OpinionPoll.dll
+D:\SoftUni\C# OOP Basics\DefiningClasses - exercises\04-OpinionPoll\obj\Debug\netcoreapp2.0\04-OpinionPoll.pdb

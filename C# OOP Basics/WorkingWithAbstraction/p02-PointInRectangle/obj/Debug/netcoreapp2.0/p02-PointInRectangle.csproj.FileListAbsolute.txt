@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\bin\Debug\netcoreapp2.0\p02-PointInRectangle.deps.json
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\bin\Debug\netcoreapp2.0\p02-PointInRectangle.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\bin\Debug\netcoreapp2.0\p02-PointInRectangle.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\bin\Debug\netcoreapp2.0\p02-PointInRectangle.dll
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\bin\Debug\netcoreapp2.0\p02-PointInRectangle.pdb
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\obj\Debug\netcoreapp2.0\p02-PointInRectangle.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\obj\Debug\netcoreapp2.0\p02-PointInRectangle.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\obj\Debug\netcoreapp2.0\p02-PointInRectangle.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\obj\Debug\netcoreapp2.0\p02-PointInRectangle.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\obj\Debug\netcoreapp2.0\p02-PointInRectangle.dll
+D:\SoftUni\C# OOP Basics\WorkingWithAbstraction\p02-PointInRectangle\obj\Debug\netcoreapp2.0\p02-PointInRectangle.pdb

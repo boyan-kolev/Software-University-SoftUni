@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+D:\SoftUni\C# OOP Basics\ExamPreparation-26April2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

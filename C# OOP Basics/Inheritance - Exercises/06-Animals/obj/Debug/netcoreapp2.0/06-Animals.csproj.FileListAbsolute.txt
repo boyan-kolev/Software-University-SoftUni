@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\bin\Debug\netcoreapp2.0\06-Animals.deps.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\bin\Debug\netcoreapp2.0\06-Animals.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\bin\Debug\netcoreapp2.0\06-Animals.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\bin\Debug\netcoreapp2.0\06-Animals.dll
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\bin\Debug\netcoreapp2.0\06-Animals.pdb
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\obj\Debug\netcoreapp2.0\06-Animals.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\obj\Debug\netcoreapp2.0\06-Animals.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\obj\Debug\netcoreapp2.0\06-Animals.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\obj\Debug\netcoreapp2.0\06-Animals.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\obj\Debug\netcoreapp2.0\06-Animals.dll
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\06-Animals\obj\Debug\netcoreapp2.0\06-Animals.pdb

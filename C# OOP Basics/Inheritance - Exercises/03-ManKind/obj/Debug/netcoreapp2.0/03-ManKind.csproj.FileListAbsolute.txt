@@ -1,0 +1,11 @@
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\bin\Debug\netcoreapp2.0\03-ManKind.deps.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\bin\Debug\netcoreapp2.0\03-ManKind.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\bin\Debug\netcoreapp2.0\03-ManKind.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\bin\Debug\netcoreapp2.0\03-ManKind.dll
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\bin\Debug\netcoreapp2.0\03-ManKind.pdb
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\obj\Debug\netcoreapp2.0\03-ManKind.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\obj\Debug\netcoreapp2.0\03-ManKind.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\obj\Debug\netcoreapp2.0\03-ManKind.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\obj\Debug\netcoreapp2.0\03-ManKind.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\obj\Debug\netcoreapp2.0\03-ManKind.dll
+D:\SoftUni\C# OOP Basics\Inheritance - Exercises\03-ManKind\obj\Debug\netcoreapp2.0\03-ManKind.pdb

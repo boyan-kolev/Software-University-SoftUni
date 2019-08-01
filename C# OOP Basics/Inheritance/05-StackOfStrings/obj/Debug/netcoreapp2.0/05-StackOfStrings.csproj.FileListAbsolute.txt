@@ -1,0 +1,10 @@
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\bin\Debug\netcoreapp2.0\05-StackOfStrings.deps.json
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\bin\Debug\netcoreapp2.0\05-StackOfStrings.runtimeconfig.json
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\bin\Debug\netcoreapp2.0\05-StackOfStrings.runtimeconfig.dev.json
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\bin\Debug\netcoreapp2.0\05-StackOfStrings.dll
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\bin\Debug\netcoreapp2.0\05-StackOfStrings.pdb
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\obj\Debug\netcoreapp2.0\05-StackOfStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\obj\Debug\netcoreapp2.0\05-StackOfStrings.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\obj\Debug\netcoreapp2.0\05-StackOfStrings.AssemblyInfo.cs
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\obj\Debug\netcoreapp2.0\05-StackOfStrings.dll
+D:\SoftUni\C# OOP Basics\Inheritance\05-StackOfStrings\obj\Debug\netcoreapp2.0\05-StackOfStrings.pdb

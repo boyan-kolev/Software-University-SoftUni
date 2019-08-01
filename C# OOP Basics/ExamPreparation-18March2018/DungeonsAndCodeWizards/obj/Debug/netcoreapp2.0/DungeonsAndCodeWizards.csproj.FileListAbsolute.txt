@@ -1,0 +1,11 @@
+D:\Current files\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.deps.json
+D:\Current files\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.json
+D:\Current files\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.runtimeconfig.dev.json
+D:\Current files\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\Current files\DungeonsAndCodeWizards\bin\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
+D:\Current files\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csprojAssemblyReference.cache
+D:\Current files\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.csproj.CoreCompileInputs.cache
+D:\Current files\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfoInputs.cache
+D:\Current files\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.AssemblyInfo.cs
+D:\Current files\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.dll
+D:\Current files\DungeonsAndCodeWizards\obj\Debug\netcoreapp2.0\DungeonsAndCodeWizards.pdb
