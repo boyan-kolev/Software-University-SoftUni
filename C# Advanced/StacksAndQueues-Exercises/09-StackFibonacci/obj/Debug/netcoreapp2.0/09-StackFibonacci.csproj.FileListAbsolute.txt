@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\bin\Debug\netcoreapp2.0\09-StackFibonacci.deps.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\bin\Debug\netcoreapp2.0\09-StackFibonacci.runtimeconfig.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\bin\Debug\netcoreapp2.0\09-StackFibonacci.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\bin\Debug\netcoreapp2.0\09-StackFibonacci.dll
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\bin\Debug\netcoreapp2.0\09-StackFibonacci.pdb
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\obj\Debug\netcoreapp2.0\09-StackFibonacci.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\obj\Debug\netcoreapp2.0\09-StackFibonacci.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\obj\Debug\netcoreapp2.0\09-StackFibonacci.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\obj\Debug\netcoreapp2.0\09-StackFibonacci.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\obj\Debug\netcoreapp2.0\09-StackFibonacci.dll
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\09-StackFibonacci\obj\Debug\netcoreapp2.0\09-StackFibonacci.pdb

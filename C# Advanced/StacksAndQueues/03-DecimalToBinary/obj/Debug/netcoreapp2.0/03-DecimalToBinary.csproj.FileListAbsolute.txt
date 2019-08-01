@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\bin\Debug\netcoreapp2.0\03-DecimalToBinary.deps.json
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\bin\Debug\netcoreapp2.0\03-DecimalToBinary.runtimeconfig.json
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\bin\Debug\netcoreapp2.0\03-DecimalToBinary.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\bin\Debug\netcoreapp2.0\03-DecimalToBinary.dll
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\bin\Debug\netcoreapp2.0\03-DecimalToBinary.pdb
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\obj\Debug\netcoreapp2.0\03-DecimalToBinary.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\obj\Debug\netcoreapp2.0\03-DecimalToBinary.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\obj\Debug\netcoreapp2.0\03-DecimalToBinary.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\obj\Debug\netcoreapp2.0\03-DecimalToBinary.dll
+D:\SoftUni\C# Advanced\StacksAndQueues\03-DecimalToBinary\obj\Debug\netcoreapp2.0\03-DecimalToBinary.pdb

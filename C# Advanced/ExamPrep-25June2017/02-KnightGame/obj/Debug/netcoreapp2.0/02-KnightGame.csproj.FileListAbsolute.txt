@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\bin\Debug\netcoreapp2.0\02-KnightGame.deps.json
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\bin\Debug\netcoreapp2.0\02-KnightGame.runtimeconfig.json
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\bin\Debug\netcoreapp2.0\02-KnightGame.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\bin\Debug\netcoreapp2.0\02-KnightGame.dll
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\bin\Debug\netcoreapp2.0\02-KnightGame.pdb
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\obj\Debug\netcoreapp2.0\02-KnightGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\obj\Debug\netcoreapp2.0\02-KnightGame.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\obj\Debug\netcoreapp2.0\02-KnightGame.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\obj\Debug\netcoreapp2.0\02-KnightGame.dll
+D:\SoftUni\C# Advanced\ExamPrep-25June2017\02-KnightGame\obj\Debug\netcoreapp2.0\02-KnightGame.pdb

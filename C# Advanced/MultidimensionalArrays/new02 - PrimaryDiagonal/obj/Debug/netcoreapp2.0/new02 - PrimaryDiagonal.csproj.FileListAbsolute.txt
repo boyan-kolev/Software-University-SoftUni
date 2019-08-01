@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\bin\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.deps.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\bin\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.runtimeconfig.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\bin\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\bin\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\bin\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.pdb
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\obj\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\obj\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\obj\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\obj\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\obj\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new02 - PrimaryDiagonal\obj\Debug\netcoreapp2.0\new02 - PrimaryDiagonal.pdb

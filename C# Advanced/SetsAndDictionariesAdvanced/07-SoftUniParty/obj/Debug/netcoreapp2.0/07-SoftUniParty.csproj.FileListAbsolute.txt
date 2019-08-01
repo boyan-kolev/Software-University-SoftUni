@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\bin\Debug\netcoreapp2.0\07-SoftUniParty.deps.json
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\bin\Debug\netcoreapp2.0\07-SoftUniParty.runtimeconfig.json
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\bin\Debug\netcoreapp2.0\07-SoftUniParty.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\bin\Debug\netcoreapp2.0\07-SoftUniParty.dll
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\bin\Debug\netcoreapp2.0\07-SoftUniParty.pdb
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\obj\Debug\netcoreapp2.0\07-SoftUniParty.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\obj\Debug\netcoreapp2.0\07-SoftUniParty.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\obj\Debug\netcoreapp2.0\07-SoftUniParty.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\obj\Debug\netcoreapp2.0\07-SoftUniParty.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\obj\Debug\netcoreapp2.0\07-SoftUniParty.dll
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced\07-SoftUniParty\obj\Debug\netcoreapp2.0\07-SoftUniParty.pdb

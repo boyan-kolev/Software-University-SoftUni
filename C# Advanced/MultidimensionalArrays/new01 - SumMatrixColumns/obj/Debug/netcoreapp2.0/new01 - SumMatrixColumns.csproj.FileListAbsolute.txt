@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\bin\Debug\netcoreapp2.0\new01 - SumMatrixColumns.deps.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\bin\Debug\netcoreapp2.0\new01 - SumMatrixColumns.runtimeconfig.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\bin\Debug\netcoreapp2.0\new01 - SumMatrixColumns.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\bin\Debug\netcoreapp2.0\new01 - SumMatrixColumns.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\bin\Debug\netcoreapp2.0\new01 - SumMatrixColumns.pdb
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\obj\Debug\netcoreapp2.0\new01 - SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\obj\Debug\netcoreapp2.0\new01 - SumMatrixColumns.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\obj\Debug\netcoreapp2.0\new01 - SumMatrixColumns.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\obj\Debug\netcoreapp2.0\new01 - SumMatrixColumns.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new01 - SumMatrixColumns\obj\Debug\netcoreapp2.0\new01 - SumMatrixColumns.pdb

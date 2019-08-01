@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\bin\Debug\netcoreapp2.0\new03 - SymbolInMatrix.deps.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\bin\Debug\netcoreapp2.0\new03 - SymbolInMatrix.runtimeconfig.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\bin\Debug\netcoreapp2.0\new03 - SymbolInMatrix.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\bin\Debug\netcoreapp2.0\new03 - SymbolInMatrix.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\bin\Debug\netcoreapp2.0\new03 - SymbolInMatrix.pdb
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\obj\Debug\netcoreapp2.0\new03 - SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\obj\Debug\netcoreapp2.0\new03 - SymbolInMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\obj\Debug\netcoreapp2.0\new03 - SymbolInMatrix.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\obj\Debug\netcoreapp2.0\new03 - SymbolInMatrix.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new03 - SymbolInMatrix\obj\Debug\netcoreapp2.0\new03 - SymbolInMatrix.pdb

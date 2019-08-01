@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\bin\Debug\netcoreapp2.0\03-GroupNumbers.deps.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\bin\Debug\netcoreapp2.0\03-GroupNumbers.runtimeconfig.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\bin\Debug\netcoreapp2.0\03-GroupNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\bin\Debug\netcoreapp2.0\03-GroupNumbers.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\bin\Debug\netcoreapp2.0\03-GroupNumbers.pdb
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\obj\Debug\netcoreapp2.0\03-GroupNumbers.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\obj\Debug\netcoreapp2.0\03-GroupNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\obj\Debug\netcoreapp2.0\03-GroupNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\obj\Debug\netcoreapp2.0\03-GroupNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\obj\Debug\netcoreapp2.0\03-GroupNumbers.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\03-GroupNumbers\obj\Debug\netcoreapp2.0\03-GroupNumbers.pdb

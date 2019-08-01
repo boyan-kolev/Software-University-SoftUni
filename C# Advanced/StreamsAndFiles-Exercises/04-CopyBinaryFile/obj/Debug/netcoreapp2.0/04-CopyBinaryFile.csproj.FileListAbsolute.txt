@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\bin\Debug\netcoreapp2.0\04-CopyBinaryFile.deps.json
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\bin\Debug\netcoreapp2.0\04-CopyBinaryFile.runtimeconfig.json
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\bin\Debug\netcoreapp2.0\04-CopyBinaryFile.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\bin\Debug\netcoreapp2.0\04-CopyBinaryFile.dll
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\bin\Debug\netcoreapp2.0\04-CopyBinaryFile.pdb
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\obj\Debug\netcoreapp2.0\04-CopyBinaryFile.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\obj\Debug\netcoreapp2.0\04-CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\obj\Debug\netcoreapp2.0\04-CopyBinaryFile.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\obj\Debug\netcoreapp2.0\04-CopyBinaryFile.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\obj\Debug\netcoreapp2.0\04-CopyBinaryFile.dll
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\04-CopyBinaryFile\obj\Debug\netcoreapp2.0\04-CopyBinaryFile.pdb

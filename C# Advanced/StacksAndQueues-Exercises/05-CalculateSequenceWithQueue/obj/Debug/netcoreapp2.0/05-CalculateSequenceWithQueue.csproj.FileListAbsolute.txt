@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.deps.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.runtimeconfig.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.dll
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.pdb
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.dll
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.pdb
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\05-CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\05-CalculateSequenceWithQueue.csprojAssemblyReference.cache

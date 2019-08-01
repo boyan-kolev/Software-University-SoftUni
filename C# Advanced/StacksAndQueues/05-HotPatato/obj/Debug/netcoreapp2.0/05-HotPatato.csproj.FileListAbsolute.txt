@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\bin\Debug\netcoreapp2.0\05-HotPatato.deps.json
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\bin\Debug\netcoreapp2.0\05-HotPatato.runtimeconfig.json
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\bin\Debug\netcoreapp2.0\05-HotPatato.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\bin\Debug\netcoreapp2.0\05-HotPatato.dll
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\bin\Debug\netcoreapp2.0\05-HotPatato.pdb
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\obj\Debug\netcoreapp2.0\05-HotPatato.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\obj\Debug\netcoreapp2.0\05-HotPatato.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\obj\Debug\netcoreapp2.0\05-HotPatato.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\obj\Debug\netcoreapp2.0\05-HotPatato.dll
+D:\SoftUni\C# Advanced\StacksAndQueues\05-HotPatato\obj\Debug\netcoreapp2.0\05-HotPatato.pdb

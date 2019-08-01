@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\bin\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.deps.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\bin\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.runtimeconfig.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\bin\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\bin\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\bin\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.pdb
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\obj\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\obj\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\obj\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\obj\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\obj\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.dll
+D:\SoftUni\C# Advanced\MultidimensionalArrays\new04 - JagedArrayModificaton\obj\Debug\netcoreapp2.0\new04 - JagedArrayModificaton.pdb

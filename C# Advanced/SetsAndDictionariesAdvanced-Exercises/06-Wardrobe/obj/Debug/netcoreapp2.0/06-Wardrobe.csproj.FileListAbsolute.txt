@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\bin\Debug\netcoreapp2.0\06-Wardrobe.deps.json
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\bin\Debug\netcoreapp2.0\06-Wardrobe.runtimeconfig.json
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\bin\Debug\netcoreapp2.0\06-Wardrobe.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\bin\Debug\netcoreapp2.0\06-Wardrobe.dll
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\bin\Debug\netcoreapp2.0\06-Wardrobe.pdb
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\obj\Debug\netcoreapp2.0\06-Wardrobe.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\obj\Debug\netcoreapp2.0\06-Wardrobe.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\obj\Debug\netcoreapp2.0\06-Wardrobe.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\obj\Debug\netcoreapp2.0\06-Wardrobe.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\obj\Debug\netcoreapp2.0\06-Wardrobe.dll
+D:\SoftUni\C# Advanced\SetsAndDictionariesAdvanced-Exercises\06-Wardrobe\obj\Debug\netcoreapp2.0\06-Wardrobe.pdb

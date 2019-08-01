@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\bin\Debug\netcoreapp2.0\01-ReverseNumbers.deps.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\bin\Debug\netcoreapp2.0\01-ReverseNumbers.runtimeconfig.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\bin\Debug\netcoreapp2.0\01-ReverseNumbers.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\bin\Debug\netcoreapp2.0\01-ReverseNumbers.dll
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\bin\Debug\netcoreapp2.0\01-ReverseNumbers.pdb
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\obj\Debug\netcoreapp2.0\01-ReverseNumbers.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\obj\Debug\netcoreapp2.0\01-ReverseNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\obj\Debug\netcoreapp2.0\01-ReverseNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\obj\Debug\netcoreapp2.0\01-ReverseNumbers.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\obj\Debug\netcoreapp2.0\01-ReverseNumbers.dll
+D:\SoftUni\C# Advanced\StacksAndQueues-Exercises\01-ReverseNumbers\obj\Debug\netcoreapp2.0\01-ReverseNumbers.pdb

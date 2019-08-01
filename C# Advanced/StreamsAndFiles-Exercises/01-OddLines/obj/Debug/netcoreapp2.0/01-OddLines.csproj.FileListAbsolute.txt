@@ -1,0 +1,11 @@
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\bin\Debug\netcoreapp2.0\01-OddLines.deps.json
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\bin\Debug\netcoreapp2.0\01-OddLines.runtimeconfig.json
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\bin\Debug\netcoreapp2.0\01-OddLines.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\bin\Debug\netcoreapp2.0\01-OddLines.dll
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\bin\Debug\netcoreapp2.0\01-OddLines.pdb
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\obj\Debug\netcoreapp2.0\01-OddLines.csprojAssemblyReference.cache
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\obj\Debug\netcoreapp2.0\01-OddLines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\obj\Debug\netcoreapp2.0\01-OddLines.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\obj\Debug\netcoreapp2.0\01-OddLines.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\obj\Debug\netcoreapp2.0\01-OddLines.dll
+D:\SoftUni\C# Advanced\StreamsAndFiles-Exercises\01-OddLines\obj\Debug\netcoreapp2.0\01-OddLines.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\bin\Debug\netcoreapp2.0\03-CountTheUppercaseWords.deps.json
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\bin\Debug\netcoreapp2.0\03-CountTheUppercaseWords.runtimeconfig.json
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\bin\Debug\netcoreapp2.0\03-CountTheUppercaseWords.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\bin\Debug\netcoreapp2.0\03-CountTheUppercaseWords.dll
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\bin\Debug\netcoreapp2.0\03-CountTheUppercaseWords.pdb
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\obj\Debug\netcoreapp2.0\03-CountTheUppercaseWords.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\obj\Debug\netcoreapp2.0\03-CountTheUppercaseWords.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\obj\Debug\netcoreapp2.0\03-CountTheUppercaseWords.AssemblyInfo.cs
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\obj\Debug\netcoreapp2.0\03-CountTheUppercaseWords.dll
+D:\SoftUni\C# Advanced\FunctionalProgramming\03-CountTheUppercaseWords\obj\Debug\netcoreapp2.0\03-CountTheUppercaseWords.pdb
