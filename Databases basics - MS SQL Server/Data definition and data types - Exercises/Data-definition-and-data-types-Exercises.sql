@@ -1,0 +1,35 @@
+CREATE DATABASE Minions
+
+USE Minions
+
+CREATE TABLE Minions (
+ID INT PRIMARY KEY IDENTITY,
+[Name] NVARCHAR(50) NOT NULL,
+Age INT
+)
+
+CREATE TABLE Towns (
+ID INT PRIMARY KEY IDENTITY,
+[Name] NVARCHAR(50) NOT NULL
+)
+
+ALTER TABLE MINIONS
+ADD TownID INT FOREIGN KEY REFERENCES Towns(ID)
+
+SET IDENTITY_INSERT Towns ON
+
+INSERT INTO Towns (ID, [Name])
+VALUES (1, 'Sofia'),
+		(2, 'Plovdiv'),
+		(3, 'Varna')
+
+SET IDENTITY_INSERT Towns OFF
+
+SET IDENTITY_INSERT MInions ON
+
+INSERT INTO Minions (ID, [Name], Age, TownID)
+VALUES (1, 'Kevin', 22, 1),
+		(2, 'Bob', 15, 3),
+		(3, 'Steward', NULL, 2)
+
+SET IDENTITY_INSERT Minions OFF
