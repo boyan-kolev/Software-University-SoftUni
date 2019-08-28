@@ -68,3 +68,75 @@ SELECT DepositGroup, IsDepositExpired, AVG(DepositInterest) AS [AverageInterest]
 WHERE DepositStartDate >= '1985-01-01'
 GROUP BY DepositGroup, IsDepositExpired
 ORDER BY DepositGroup DESC, IsDepositExpired
+
+--Problem 12. * Rich Wizard, Poor Wizard
+--version 1
+SELECT SUM(K.Diff) AS SumDifference
+FROM
+(SELECT 
+	WD.DepositAmount - (SELECT W.DepositAmount FROM WizzardDeposits AS W WHERE W.Id = WD.Id + 1) AS Diff
+  FROM WizzardDeposits AS WD) AS K
+
+--Version 2
+SELECT SUM(DiffTable.Diff) AS SumDifference
+  FROM
+	(SELECT (DepositAmount - LEAD(DepositAmount, 1) OVER (ORDER BY Id)) AS Diff
+	  FROM WizzardDeposits) AS DiffTable
+
+--Version 3
+SELECT (SUM(DiffTable.Diff) * -1) AS SumDifference
+  FROM
+	(SELECT (DepositAmount - LAG(DepositAmount, 1) OVER (ORDER BY Id)) AS Diff
+	  FROM WizzardDeposits) AS DiffTable
+
+--Problem 13. Departments Total Salaries
+USE SoftUni
+
+SELECT DepartmentID ,SUM(Salary) AS TotalSum
+  FROM Employees
+GROUP BY DepartmentID
+ORDER BY DepartmentID
+
+--Problem 14. Employees Minimum Salaries
+SELECT DepartmentID, MIN(Salary) AS MinimumSalary
+  FROM Employees
+WHERE DepartmentID IN (2, 5 ,7) AND HireDate > '01/01/2000'
+GROUP BY DepartmentID
+
+--Problem 15. Employees Average Salaries
+SELECT * 
+  INTO EmployeesEarnMoreThan30000
+  FROM Employees
+ WHERE Salary > 30000
+
+DELETE FROM EmployeesEarnMoreThan30000
+WHERE ManagerID = 42
+
+UPDATE EmployeesEarnMoreThan30000
+SET Salary += 5000
+WHERE DepartmentID = 1
+
+SELECT DepartmentID, AVG(Salary) AS AvarageSalary
+  FROM EmployeesEarnMoreThan30000
+GROUP BY DepartmentID
+
+--Problem 16. Employees Maximum Salaries
+SELECT DepartmentID, MAX(Salary) AS MaxSalary
+  FROM Employees
+GROUP BY DepartmentID
+HAVING MAX(Salary) NOT BETWEEN 30000 AND 70000
+
+--Problem 17. Employees Count Salaries
+SELECT COUNT(*) AS [Count] 
+  FROM Employees
+ WHERE ManagerID IS NULL
+
+--Problem 18. *3rd Highest Salary
+SELECT DISTINCT K.DepartmentID, K.Salary
+  FROM
+	(SELECT
+		DepartmentID,
+		Salary,
+		DENSE_RANK() OVER (PARTITION BY DepartmentID ORDER BY Salary DESC) AS SalaryRank
+	  FROM Employees) AS K
+ WHERE K.SalaryRank = 3
