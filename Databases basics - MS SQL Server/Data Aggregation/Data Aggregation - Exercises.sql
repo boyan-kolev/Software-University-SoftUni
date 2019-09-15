@@ -140,3 +140,15 @@ SELECT DISTINCT K.DepartmentID, K.Salary
 		DENSE_RANK() OVER (PARTITION BY DepartmentID ORDER BY Salary DESC) AS SalaryRank
 	  FROM Employees) AS K
  WHERE K.SalaryRank = 3
+
+--Problem 19. **Salary Challenge
+SELECT TOP(10)
+	FirstName,
+	LastName, 
+	DepartmentID
+  FROM Employees AS e
+ WHERE Salary > (SELECT AVG(Salary) FROM Employees AS em WHERE em.DepartmentID = e.DepartmentID)
+ORDER BY DepartmentID
+
+
+    
