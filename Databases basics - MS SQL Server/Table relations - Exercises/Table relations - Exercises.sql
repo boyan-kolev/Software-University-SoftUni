@@ -117,3 +117,12 @@ VALUES ('John', NULL),
 		('Ted', 105),
 		('Mark', 101),
 		('Greta', 101)
+
+--Problem 9. *Peaks in Rila
+USE Geography
+
+SELECT M.MountainRange, P.PeakName, P.Elevation FROM Mountains AS m
+JOIN Peaks AS p
+ON M.Id = P.MountainId
+WHERE M.MountainRange = 'Rila'
+ORDER BY P.Elevation DESC
