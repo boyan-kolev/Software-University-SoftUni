@@ -173,5 +173,20 @@ FROM (SELECT a.Id,
 	 ON a.AccountHolderId = ah.Id
 	 WHERE a.Id = @AccountID
 	 GROUP BY a.Id, FirstName, ah.LastName) AS t
+GO
 
-
+--Part 3. Queries for Diablo Database
+--Problem 13. *Scalar Function: Cash in User Games Odd Rows
+CREATE FUNCTION ufn_CashInUsersGames (@GameName NVARCHAR(MAX))
+RETURNS TABLE
+AS
+RETURN
+	SELECT SUM(t.Cash) AS SumCash
+	FROM (SELECT ROW_NUMBER() OVER (PARTITION BY g.[Name] ORDER BY ug.Cash DESC) AS RowNumber,
+		  ug.Cash
+		 FROM Games AS g
+		 JOIN UsersGames AS ug
+		 ON ug.GameId = g.Id
+		 WHERE G.[Name] = @GameName) AS t
+	WHERE t.RowNumber % 2 <> 0
+GO
