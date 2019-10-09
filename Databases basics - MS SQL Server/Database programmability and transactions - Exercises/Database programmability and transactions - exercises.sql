@@ -190,3 +190,242 @@ RETURN
 		 WHERE G.[Name] = @GameName) AS t
 	WHERE t.RowNumber % 2 <> 0
 GO
+
+--Section II. Triggers and Transactions
+--Part 1. Queries for Bank Database
+--Problem 14. Create Table Logs
+CREATE TABLE Logs(
+	LogId INT PRIMARY KEY IDENTITY,
+	AccountId INT FOREIGN KEY REFERENCES Accounts(Id) NOT NULL,
+	OldSum DECIMAL(15, 2) NOT NULL,
+	NewSum DECIMAL(15, 2) NOT NULL
+)
+GO
+
+CREATE TRIGGER tr_InsertIntoAccount ON Accounts FOR UPDATE
+AS
+BEGIN
+	DECLARE @oldSum DECIMAL(15, 2) = (SELECT Balance FROM deleted)
+	DECLARE @newSum DECIMAL(15, 2) = (SELECT Balance FROM inserted)
+	DECLARE @accountId INT = (SELECT Id FROM inserted)
+
+	INSERT INTO Logs (AccountId, OldSum, NewSum)
+	VALUES (@accountId, @oldSum, @newSum)
+END
+GO
+
+--Problem 15. Create Table Emails
+CREATE TABLE NotificationEmails(
+	Id INT PRIMARY KEY IDENTITY,
+	Recipient INT FOREIGN KEY REFERENCES Accounts(Id) NOT NULL,
+	[Subject] VARCHAR(50) NOT NULL,
+	Body VARCHAR(100) NOT NULL
+)
+GO
+
+CREATE TRIGGER tr_InsertToLogs ON Logs FOR INSERT
+AS
+BEGIN
+	DECLARE @dateNow VARCHAR(30) = convert(varchar(30), getdate(), 100)
+	DECLARE @oldSum DECIMAL(15, 2) = (SELECT OldSum FROM inserted)
+	DECLARE @newSum DECIMAL(15, 2) = (SELECT NewSum FROM inserted)
+	DECLARE @recipient INT = (SELECT AccountId FROM inserted)
+	DECLARE @subjects VARCHAR(50) = 'Balance change for account: ' + CAST(@recipient AS VARCHAR(50))
+	DECLARE @body VARCHAR(100) = 'On ' + @dateNow + ' your balance was changed from ' + CAST(@oldSum AS varchar(20)) +' to '+ CAST(@newSum AS varchar(20)) + ' .'
+
+	INSERT INTO NotificationEmails (Recipient, [Subject], Body)
+	VALUES (@recipient, @subjects, @body)
+END
+GO
+
+--Problem 16. Deposit Money
+CREATE PROC usp_DepositMoney (@AccountId INT, @MoneyAmount DECIMAL(18, 4))
+AS
+BEGIN TRANSACTION
+	DECLARE @currAccountId INT = (SELECT TOP(1) Id FROM Accounts WHERE Id = @AccountId)
+
+	IF(@currAccountId IS NULL)
+	BEGIN
+		RAISERROR('The account does not exist', 16, 1)
+		ROLLBACK
+		RETURN
+	END
+
+	IF(@MoneyAmount < 0)
+	BEGIN
+		RAISERROR('The amount can not be negative!', 16, 2)
+		ROLLBACK
+		RETURN
+	END
+
+	UPDATE Accounts
+	SET Balance += @MoneyAmount
+	WHERE Id = @AccountId
+
+COMMIT
+GO
+
+--Problem 17. Withdraw Money
+CREATE PROC usp_WithdrawMoney (@AccountId INT, @MoneyAmount DECIMAL(18, 4))
+AS
+BEGIN TRANSACTION
+	DECLARE @currAccountId INT = (SELECT TOP(1) Id FROM Accounts WHERE Id = @AccountId)
+
+	IF(@currAccountId IS NULL)
+	BEGIN
+		RAISERROR('The account does not exist', 16, 1)
+		ROLLBACK
+		RETURN
+	END
+
+	IF(@MoneyAmount < 0)
+	BEGIN
+		RAISERROR('The amount can not be negative!', 16, 2)
+		ROLLBACK
+		RETURN
+	END
+
+	DECLARE @currBalance DECIMAL(18, 4) = (SELECT TOP(1) Balance FROM Accounts WHERE Id = @AccountId)
+
+	IF((@currBalance - @MoneyAmount) < 0)
+	BEGIN
+		ROLLBACK
+		RAISERROR('Insufficient avaible money!', 16, 3)
+		RETURN
+	END
+
+	UPDATE Accounts
+	SET Balance -= @MoneyAmount
+	WHERE Id = @AccountId
+
+COMMIT
+GO
+
+--Problem 18. Money Transfer
+CREATE PROCEDURE usp_TransferMoney (@SenderId INT, @ReceiverId INT, @Amount DECIMAL(18, 4))
+AS
+BEGIN TRANSACTION
+DECLARE @currSenderId INT = (SELECT TOP(1) Id FROM Accounts WHERE Id = @SenderId)
+DECLARE @currReceiverId INT = (SELECT TOP(1) Id FROM Accounts WHERE Id = @SenderId)
+
+IF(@currSenderId IS NULL OR @currReceiverId IS NULL)
+BEGIN
+	RAISERROR('Invalid account!', 16, 1)
+	ROLLBACK
+	RETURN
+END
+
+EXEC usp_WithdrawMoney @senderId, @Amount
+EXEC usp_DepositMoney @ReceiverId, @Amount
+COMMIT
+GO
+
+--Part 2. Queries for Diablo Database
+--Problem 19. Trigger
+USE Diablo
+GO
+
+CREATE TRIGGER tr_RestrictItems ON UserGameItems INSTEAD OF INSERT
+AS
+DECLARE @userGameID INT = (SELECT TOP(1) UserGameId FROM inserted)
+DECLARE @itemID INT = (SELECT TOP(1) ItemId FROM inserted)
+
+DECLARE @userGameLevel INT = (SELECT TOP(1) [Level] FROM UsersGames WHERE Id = @userGameID)
+DECLARE @itemLevel INT = (SELECT TOP(1) MinLevel FROM Items WHERE Id = @itemID)
+
+IF(@userGameLevel >= @itemLevel)
+BEGIN
+	INSERT INTO UserGameItems(UserGameId, ItemId)
+	VALUES (@userGameID, @itemID)
+END
+GO
+
+UPDATE UsersGames
+SET Cash += 50000
+WHERE GameId = (SELECT Id FROM Games WHERE [Name] = 'Bali') 
+AND UserId IN (SELECT Id FROM Users WHERE Username IN ('baleremuda', 'loosenoise', 'inguinalself', 'buildingdeltoid', 'monoxidecos'))
+GO
+
+CREATE PROC usp_BuyItem (@UserID INT, @ItemID INT, @GameID INT)
+AS
+BEGIN TRANSACTION
+DECLARE @user INT = (SELECT TOP(1) Id FROM Users WHERE Id = @UserID)
+DECLARE @item INT = (SELECT TOP(1) Id FROM Items WHERE Id = @ItemID)
+
+IF(@user IS NULL OR @item IS NULL)
+BEGIN
+	ROLLBACK
+	RAISERROR('Invalid user or item!', 16, 1)
+	return
+END
+
+DECLARE @cash DECIMAL(15, 2) = (SELECT TOP(1) Cash FROM UsersGames WHERE UserId = @UserID AND GameId = @GameID)
+DECLARE @priceOfItem DECIMAL(15, 2) = (SELECT TOP(1) Price FROM Items WHERE Id = @ItemID)
+
+IF(@cash - @priceOfItem < 0)
+BEGIN
+	ROLLBACK
+	RAISERROR('Insufficient funds', 16, 2)
+	RETURN
+END
+
+UPDATE UsersGames
+SET Cash -= @priceOfItem
+WHERE UserId = @UserID AND GameId = @GameID
+
+DECLARE @userGameID INT = (SELECT TOP(1) Id FROM UsersGames WHERE UserId = @UserID AND GameId = @GameID)
+
+INSERT INTO UserGameItems(UserGameId, ItemId)
+VALUES (@userGameID, @ItemID)
+
+COMMIT
+GO
+
+DECLARE @counterItemsID INT = 251
+DECLARE @gameID INT = (SELECT TOP(1) Id FROM Games WHERE [Name] = 'Bali')
+
+WHILE(@counterItemsID < 299)
+BEGIN
+	EXEC usp_BuyItem 61, @counterItemsID, @gameID
+	EXEC usp_BuyItem 52, @counterItemsID, @gameID
+	EXEC usp_BuyItem 37, @counterItemsID, @gameID
+	EXEC usp_BuyItem 22, @counterItemsID, @gameID
+	EXEC usp_BuyItem 12, @counterItemsID, @gameID
+	SET @counterItemsID += 1
+END
+GO
+
+DECLARE @counterItemsID INT = 501
+DECLARE @gameID INT = (SELECT TOP(1) Id FROM Games WHERE [Name] = 'Bali')
+
+WHILE(@counterItemsID < 539)
+BEGIN
+	EXEC usp_BuyItem 61, @counterItemsID, @gameID
+	EXEC usp_BuyItem 52, @counterItemsID, @gameID
+	EXEC usp_BuyItem 37, @counterItemsID, @gameID
+	EXEC usp_BuyItem 22, @counterItemsID, @gameID
+	EXEC usp_BuyItem 12, @counterItemsID, @gameID
+	SET @counterItemsID += 1
+END
+GO
+
+SELECT u.Username,
+		g.[Name],
+		ug.Cash,
+		i.[Name]
+FROM Users AS u
+JOIN UsersGames AS ug
+ON ug.UserId = u.Id
+JOIN Games AS g
+ON g.Id = ug.GameId
+JOIN UserGameItems AS ugi
+ON ugi.UserGameId = ug.Id
+JOIN Items AS i
+ON i.Id = ugi.ItemId
+WHERE g.[Name] = 'Bali'
+ORDER BY u.Username, i.[Name]
+GO
+
+--Problem 20. *Massive Shopping
+
+SELECT * FROM UsersGames WHERE UserId = 9
