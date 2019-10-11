@@ -427,5 +427,83 @@ ORDER BY u.Username, i.[Name]
 GO
 
 --Problem 20. *Massive Shopping
+DECLARE @userGameID INT = (SELECT Id FROM UsersGames WHERE UserId = 9 AND GameId = 87)
+DECLARE @stamatCash DECIMAL(15, 2) = (SELECT Cash FROM UsersGames WHERE Id = @userGameID)
+DECLARE @totalPriceOfItems DECIMAL(15, 2) = (SELECT SUM(Price) FROM Items WHERE MinLevel BETWEEN 11 AND 12)
 
-SELECT * FROM UsersGames WHERE UserId = 9
+IF(@stamatCash >= @totalPriceOfItems)
+BEGIN
+	BEGIN TRANSACTION
+		UPDATE UsersGames
+		SET Cash -= @totalPriceOfItems
+		WHERE Id = @userGameID
+
+		INSERT INTO UserGameItems (ItemId, UserGameId)
+		SELECT Id, @userGameID FROM Items WHERE MinLevel BETWEEN 11 AND 12
+	COMMIT
+END
+
+SET @stamatCash = (SELECT Cash FROM UsersGames WHERE Id = @userGameID)
+SET @totalPriceOfItems = (SELECT SUM(Price) FROM Items WHERE MinLevel BETWEEN 19 AND 21)
+
+IF(@stamatCash >= @totalPriceOfItems)
+BEGIN
+	BEGIN TRANSACTION
+		UPDATE UsersGames
+		SET Cash -= @totalPriceOfItems
+		WHERE Id = @userGameID
+
+		INSERT INTO UserGameItems (ItemId, UserGameId)
+		SELECT Id, @userGameID FROM Items WHERE MinLevel BETWEEN 19 AND 21
+	COMMIT
+END
+
+SELECT i.[Name]
+FROM UsersGames AS ug
+JOIN UserGameItems AS ugi
+ON ugi.UserGameId = ug.Id
+JOIN Items AS i
+ON i.Id = ugi.ItemId
+WHERE ug.UserId = 9 AND ug.GameId = 87
+ORDER BY i.[Name]
+
+--Part 3. Queries for SoftUni Database
+--Problem 21. Employees with Three Projects
+USE SoftUni
+GO
+
+CREATE PROC usp_AssignProject(@emloyeeId INT, @projectID INT)
+AS
+BEGIN TRANSACTION
+DECLARE @countOfProjects INT = (SELECT COUNT(*) FROM EmployeesProjects WHERE EmployeeID = @emloyeeId)
+
+IF(@countOfProjects >= 3)
+BEGIN
+	ROLLBACK
+	RAISERROR('The employee has too many projects!', 16, 1)
+	RETURN
+END
+
+INSERT INTO EmployeesProjects (EmployeeID, ProjectID)
+VALUES (@emloyeeId, @projectID)
+
+COMMIT
+GO
+
+
+--Problem 22. Delete Employees
+CREATE TABLE Deleted_Employees(
+	EmployeeId INT PRIMARY KEY,
+	FirstName VARCHAR(50) NOT NULL,
+	LastName VARCHAR(50) NOT NULL,
+	MiddleName VARCHAR(50) NOT NULL,
+	JobTitle VARCHAR(50) NOT NULL,
+	DepartmentId INT FOREIGN KEY REFERENCES Departments(DepartmentID) NOT NULL,
+	Salary Money NOT NULL
+)
+GO
+
+CREATE TRIGGER tr_InsertToDeleted_Employees ON Employees FOR DELETE
+AS
+INSERT INTO Deleted_Employees (FirstName, LastName, MiddleName, JobTitle, DepartmentId, Salary)
+SELECT FirstName, LastName, MiddleName, JobTitle, DepartmentID, Salary FROM deleted
