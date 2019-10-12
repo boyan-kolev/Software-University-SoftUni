@@ -209,3 +209,106 @@ FROM (SELECT SUM(i.Price * oi.Quantity) AS [TotalSum],
 	 ON i.Id = oi.ItemId
 	 GROUP BY DATEPART(DAY, o.[DateTime])) AS t
 ORDER BY [Day]
+
+--17. Top Products
+SELECT i.[Name] AS [Item],
+	c.[Name] AS [Category],
+	SUM(oi.Quantity) AS [Count],
+	SUM(i.Price * oi.Quantity) AS [TotalPrice]
+FROM OrderItems AS oi
+RIGHT JOIN Items AS i
+RIGHT JOIN Categories AS c
+ON c.Id = i.CategoryId
+ON i.Id = oi.ItemId
+GROUP BY i.Id, i.[Name], c.[Name]
+ORDER BY TotalPrice DESC, Count DESC
+GO
+
+--Section 4. Programmability (20 pts)
+--18. Promotion days
+CREATE FUNCTION udf_GetPromotedProducts(@CurrentDate DATE, @StartDate DATE, @EndDate DATE, @Discount DECIMAL(15, 2), @FirstItemId INT, @SecondItemId INT, @ThirdItemId INT)
+RETURNS VARCHAR(MAX)
+BEGIN
+	DECLARE @firstItem INT = (SELECT Id FROM Items WHERE Id = @FirstItemId)
+	DECLARE @secondItem INT = (SELECT Id FROM Items WHERE Id = @SecondItemId)
+	DECLARE @thirdItem INT = (SELECT Id FROM Items WHERE Id = @ThirdItemId)
+	DECLARE @result VARCHAR(MAX)
+
+	IF(@firstItem IS NOT NULL AND @secondItem IS NOT NULL AND @thirdItem IS NOT NULL)
+	BEGIN
+		DECLARE @firstItemName VARCHAR(100) = (SELECT [Name] FROM Items WHERE Id = @FirstItemId)
+		DECLARE @secondItemName VARCHAR(100) = (SELECT [Name] FROM Items WHERE Id = @SecondItemId)
+		DECLARE @thirdItemName VARCHAR(100) = (SELECT [Name] FROM Items WHERE Id = @ThirdItemId)
+
+		IF(@CurrentDate BETWEEN @StartDate AND @EndDate)
+		BEGIN
+			DECLARE @priceOfItem1 DECIMAL(15, 2) = (SELECT Price FROM Items WHERE Id = @FirstItemId)
+			DECLARE @priceOfItem2 DECIMAL(15, 2) = (SELECT Price FROM Items WHERE Id = @SecondItemId)
+			DECLARE @priceOfItem3 DECIMAL(15, 2) = (SELECT Price FROM Items WHERE Id = @ThirdItemId)
+
+			DECLARE @priceDiscount1 DECIMAL(15, 2) = (@priceOfItem1 - (@priceOfItem1 * (@Discount / 100)))
+			DECLARE @priceDiscount2 DECIMAL(15, 2) = (@priceOfItem2 - (@priceOfItem2 * (@Discount / 100)))
+			DECLARE @priceDiscount3 DECIMAL(15, 2) = (@priceOfItem3 - (@priceOfItem3 * (@Discount / 100)))
+					
+
+			SET @result = @firstItemName + ' price: ' + CAST(@priceDiscount1 AS VARCHAR(50)) + ' <-> ' + @secondItemName + ' price: ' + CAST(@priceDiscount2 AS VARCHAR(50)) + ' <-> ' + @thirdItemName + ' price: ' + CAST(@priceDiscount3 AS VARCHAR(50))
+		END
+		ELSE
+		BEGIN
+			SET @result = 'The current date is not within the promotion dates!'
+		END
+	END
+	ELSE
+	BEGIN
+		SET @result = 'One of the items does not exists!'
+	END
+
+	RETURN @result
+END
+GO
+
+--19. Cancel order
+CREATE PROC usp_CancelOrder(@OrderId INT, @CancelDate DATE)
+AS
+BEGIN TRANSACTION
+DECLARE @order INT = (SELECT TOP(1) Id FROM Orders WHERE Id = @OrderId)
+
+IF(@order IS NULL)
+BEGIN
+	RAISERROR('The order does not exist!', 16, 1)
+	ROLLBACK
+	RETURN
+END
+
+DECLARE @orderDate DATE = (SELECT TOP(1) [DateTime] FROM Orders WHERE Id = @OrderId)
+
+IF(DATEDIFF(DAY, @orderDate, @CancelDate) > 3)
+BEGIN
+	RAISERROR('You cannot cancel the order!', 16, 2)
+	ROLLBACK
+	RETURN
+END
+
+DELETE FROM OrderItems
+WHERE OrderId = @OrderId
+
+DELETE FROM Orders
+WHERE Id = @OrderId
+
+COMMIT
+
+--20. Deleted Order
+CREATE TABLE DeletedOrders(
+	OrderId INT,
+	ItemId INT,
+	ItemQuantity INT
+)
+GO
+
+CREATE TRIGGER tr_DeletedOrders ON OrderItems FOR DELETE
+AS
+
+INSERT INTO DeletedOrders (OrderId, ItemId, ItemQuantity)
+	SELECT OrderId, ItemId, Quantity FROM deleted
+
+
