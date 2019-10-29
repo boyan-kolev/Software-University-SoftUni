@@ -1,0 +1,17 @@
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\01-InitialSeteup.exe
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\01-InitialSeteup.deps.json
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\01-InitialSeteup.runtimeconfig.json
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\01-InitialSeteup.runtimeconfig.dev.json
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\01-InitialSeteup.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\01-InitialSeteup.pdb
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\obj\Release\netcoreapp3.0\01-InitialSeteup.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\obj\Release\netcoreapp3.0\01-InitialSeteup.AssemblyInfo.cs
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\obj\Release\netcoreapp3.0\01-InitialSeteup.csproj.CopyComplete
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\obj\Release\netcoreapp3.0\01-InitialSeteup.dll
+C:\Users\user1\source\repos\WorkingWithADO.NET\01-InitialSeteup\obj\Release\netcoreapp3.0\01-InitialSeteup.pdb
