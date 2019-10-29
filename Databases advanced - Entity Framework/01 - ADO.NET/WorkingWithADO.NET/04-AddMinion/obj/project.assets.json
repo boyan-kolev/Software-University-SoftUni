@@ -458,11 +458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\source\\repos\\WorkingWithADO.NET\\04-AddMinion\\04-AddMinion.csproj",
+      "projectUniqueName": "D:\\GitHubRepo\\Software-University-SoftUni\\Databases advanced - Entity Framework\\01 - ADO.NET\\WorkingWithADO.NET\\04-AddMinion\\04-AddMinion.csproj",
       "projectName": "04-AddMinion",
-      "projectPath": "C:\\Users\\user1\\source\\repos\\WorkingWithADO.NET\\04-AddMinion\\04-AddMinion.csproj",
+      "projectPath": "D:\\GitHubRepo\\Software-University-SoftUni\\Databases advanced - Entity Framework\\01 - ADO.NET\\WorkingWithADO.NET\\04-AddMinion\\04-AddMinion.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\source\\repos\\WorkingWithADO.NET\\04-AddMinion\\obj\\",
+      "outputPath": "D:\\GitHubRepo\\Software-University-SoftUni\\Databases advanced - Entity Framework\\01 - ADO.NET\\WorkingWithADO.NET\\04-AddMinion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",

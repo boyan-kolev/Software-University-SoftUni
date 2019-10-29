@@ -458,11 +458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\source\\repos\\WorkingWithADO.NET\\06-RemoveVillian\\06-RemoveVillian.csproj",
+      "projectUniqueName": "D:\\GitHubRepo\\Software-University-SoftUni\\Databases advanced - Entity Framework\\01 - ADO.NET\\WorkingWithADO.NET\\06-RemoveVillian\\06-RemoveVillian.csproj",
       "projectName": "06-RemoveVillian",
-      "projectPath": "C:\\Users\\user1\\source\\repos\\WorkingWithADO.NET\\06-RemoveVillian\\06-RemoveVillian.csproj",
+      "projectPath": "D:\\GitHubRepo\\Software-University-SoftUni\\Databases advanced - Entity Framework\\01 - ADO.NET\\WorkingWithADO.NET\\06-RemoveVillian\\06-RemoveVillian.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\source\\repos\\WorkingWithADO.NET\\06-RemoveVillian\\obj\\",
+      "outputPath": "D:\\GitHubRepo\\Software-University-SoftUni\\Databases advanced - Entity Framework\\01 - ADO.NET\\WorkingWithADO.NET\\06-RemoveVillian\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
