@@ -1,0 +1,4 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\bin\Debug\netcoreapp3.0\SoftUni.exe
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp3.0\SoftUni.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp3.0\SoftUni.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp3.0\SoftUni.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\02 - Introduction to Entity framework\IntroductionToEFCore-Exercises\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
