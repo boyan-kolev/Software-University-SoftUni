@@ -33,3 +33,4 @@ D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\
 D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\04 - EntityRelations\EntityRelationsExercises\P01_StudentSystem\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\04 - EntityRelations\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.dll
 D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\04 - EntityRelations\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\04 - EntityRelations\EntityRelationsExercises\P01_StudentSystem\obj\Debug\netcoreapp3.0\P01_StudentSystem.csprojAssemblyReference.cache
