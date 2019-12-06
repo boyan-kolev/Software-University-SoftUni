@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb

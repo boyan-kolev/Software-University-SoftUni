@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\08 - XML Processing\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
