@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 07.04.2019\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb

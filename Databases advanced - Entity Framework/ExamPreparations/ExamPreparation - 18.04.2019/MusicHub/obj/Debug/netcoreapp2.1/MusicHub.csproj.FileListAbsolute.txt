@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\bin\Debug\netcoreapp2.1\MusicHub.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\ExamPreparations\ExamPreparation - 18.04.2019\MusicHub\obj\Debug\netcoreapp2.1\MusicHub.pdb
