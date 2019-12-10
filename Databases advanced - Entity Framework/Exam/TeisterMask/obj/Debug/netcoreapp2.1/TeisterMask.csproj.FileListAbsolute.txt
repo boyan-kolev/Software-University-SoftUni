@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\bin\Debug\netcoreapp2.1\TeisterMask.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam\TeisterMask\obj\Debug\netcoreapp2.1\TeisterMask.pdb
