@@ -1,0 +1,10 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\Exam-Retake\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
