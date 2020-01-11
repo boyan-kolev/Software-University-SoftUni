@@ -1,0 +1,11 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\bin\Debug\netcoreapp3.0\P01-Singleton.exe
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\bin\Debug\netcoreapp3.0\P01-Singleton.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\bin\Debug\netcoreapp3.0\P01-Singleton.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\bin\Debug\netcoreapp3.0\P01-Singleton.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\bin\Debug\netcoreapp3.0\P01-Singleton.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\bin\Debug\netcoreapp3.0\P01-Singleton.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\obj\Debug\netcoreapp3.0\P01-Singleton.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\obj\Debug\netcoreapp3.0\P01-Singleton.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\obj\Debug\netcoreapp3.0\P01-Singleton.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\obj\Debug\netcoreapp3.0\P01-Singleton.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\01.Singleton\obj\Debug\netcoreapp3.0\P01-Singleton.pdb

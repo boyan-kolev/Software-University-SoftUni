@@ -1,0 +1,11 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\bin\Debug\netcoreapp3.0\P03-Command.exe
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\bin\Debug\netcoreapp3.0\P03-Command.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\bin\Debug\netcoreapp3.0\P03-Command.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\bin\Debug\netcoreapp3.0\P03-Command.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\bin\Debug\netcoreapp3.0\P03-Command.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\bin\Debug\netcoreapp3.0\P03-Command.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\obj\Debug\netcoreapp3.0\P03-Command.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\obj\Debug\netcoreapp3.0\P03-Command.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\obj\Debug\netcoreapp3.0\P03-Command.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\obj\Debug\netcoreapp3.0\P03-Command.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P03-Command\obj\Debug\netcoreapp3.0\P03-Command.pdb

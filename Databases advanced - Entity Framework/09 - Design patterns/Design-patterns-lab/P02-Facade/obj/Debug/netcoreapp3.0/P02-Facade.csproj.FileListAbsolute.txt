@@ -1,0 +1,11 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\bin\Debug\netcoreapp3.0\P02-Facade.exe
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\bin\Debug\netcoreapp3.0\P02-Facade.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\bin\Debug\netcoreapp3.0\P02-Facade.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\bin\Debug\netcoreapp3.0\P02-Facade.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\bin\Debug\netcoreapp3.0\P02-Facade.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\bin\Debug\netcoreapp3.0\P02-Facade.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\obj\Debug\netcoreapp3.0\P02-Facade.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\obj\Debug\netcoreapp3.0\P02-Facade.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\obj\Debug\netcoreapp3.0\P02-Facade.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\obj\Debug\netcoreapp3.0\P02-Facade.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\09 - Design patterns\Design-patterns-lab\P02-Facade\obj\Debug\netcoreapp3.0\P02-Facade.pdb
