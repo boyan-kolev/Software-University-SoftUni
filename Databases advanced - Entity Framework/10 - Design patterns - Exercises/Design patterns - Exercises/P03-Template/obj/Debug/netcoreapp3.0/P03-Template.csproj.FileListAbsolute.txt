@@ -1,0 +1,11 @@
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\bin\Debug\netcoreapp3.0\P03-Template.exe
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\bin\Debug\netcoreapp3.0\P03-Template.deps.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\bin\Debug\netcoreapp3.0\P03-Template.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\bin\Debug\netcoreapp3.0\P03-Template.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\bin\Debug\netcoreapp3.0\P03-Template.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\bin\Debug\netcoreapp3.0\P03-Template.pdb
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\obj\Debug\netcoreapp3.0\P03-Template.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\obj\Debug\netcoreapp3.0\P03-Template.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\obj\Debug\netcoreapp3.0\P03-Template.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\obj\Debug\netcoreapp3.0\P03-Template.dll
+D:\GitHubRepo\Software-University-SoftUni\Databases advanced - Entity Framework\10 - Design patterns - Exercises\Design patterns - Exercises\P03-Template\obj\Debug\netcoreapp3.0\P03-Template.pdb
