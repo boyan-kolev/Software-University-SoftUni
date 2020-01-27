@@ -1,0 +1,17 @@
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\WebServer-HTTP.exe
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\WebServer-HTTP.deps.json
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\WebServer-HTTP.runtimeconfig.json
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\WebServer-HTTP.runtimeconfig.dev.json
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\WebServer-HTTP.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\WebServer-HTTP.pdb
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.csprojAssemblyReference.cache
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.AssemblyInfoInputs.cache
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.AssemblyInfo.cs
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.pdb
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.csproj.CopyComplete
