@@ -15,3 +15,4 @@ D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer
 D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\obj\Debug\netcoreapp3.1\WebServer-HTTP.csproj.CopyComplete
+D:\GitHubRepo\Software-University-SoftUni\C# Web Basics\WebServer-HTTP\WebServer-HTTP\bin\Debug\netcoreapp3.1\LAs-Vegas.jpg

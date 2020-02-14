@@ -1,10 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Drawing;
 using System.IO;
 using System.Net;
 using System.Net.Http;
 using System.Net.Sockets;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -12,25 +14,41 @@ namespace WebServer_HTTP
 {
     public class StartUp
     {
+        static private Dictionary<string, int> SessionStore = new Dictionary<string, int>();
         public static void Main(string[] args)
         {
-            int count = 0;
-            object lockObj = new object();
-
-            for (int i = 0; i < 1000000; i++)
+            for (int i = 0; i < 5; i++)
             {
-                Task.Run(() =>
+                int counter = 0;
+                if (i == 2)
                 {
-                    lock (lockObj)
-                    {
-                        count++;
-                    }
-                });
+                    continue;
+                }
+                else
+                {
+                    counter++;
+                }
+
+                counter++;
             }
 
-            Thread.Sleep(10000);
+            //int count = 0;
+            //object lockObj = new object();
 
-            Console.WriteLine(count);
+            //for (int i = 0; i < 1000000; i++)
+            //{
+            //    Task.Run(() =>
+            //    {
+            //        lock (lockObj)
+            //        {
+            //            count++;
+            //        }
+            //    });
+            //}
+
+            //Thread.Sleep(10000);
+
+            //Console.WriteLine(count);
 
 
             //            TcpListener tcpListener = new TcpListener(IPAddress.Loopback, 80);
@@ -54,16 +72,32 @@ namespace WebServer_HTTP
             int bytesRead = await networkStream.ReadAsync(requestBytes, 0, requestBytes.Length);
             string request = Encoding.UTF8.GetString(requestBytes, 0, bytesRead);
 
-            string responseMessage = "<H1>This is my site!</H1>" +
-                $"<H3>Date and time: {DateTime.UtcNow}</H3>";
+            
+            string cookieSid = Regex.Match(request, @"Cookie: sid=[^\r\n]+").Groups[0].Value.Replace("Cookie: sid=", "").Trim();
+            bool isNull = true;
+
+            if (string.IsNullOrWhiteSpace(cookieSid))
+            {
+                cookieSid = Guid.NewGuid().ToString();
+                SessionStore.Add(cookieSid, 1);
+                isNull = true;
+            }
+            else
+            {
+                SessionStore[cookieSid]++;
+                isNull = false;
+            }
+
+            string responseText = "<H4>" + SessionStore[cookieSid] + "</H4>";
 
             string response = "HTTP/1.1 200 OK" + NewLine +
                 "Server: SoftUniServer/1.0" + NewLine +
                 //"Location: https://softuni.bg" + NewLine +
                 //"Content-Disposition: attachment; filename=MySite.html" + NewLine +
-                "Content-Length: " + responseMessage.Length + NewLine +
-                NewLine +
-                responseMessage;
+                "Content-Type: text/html" + NewLine +
+                (isNull ? $"Set-Cookie: sid={cookieSid}; path=/; HttpOnly; Expires=" + new DateTime(2055, 6, 25).ToString("R") + NewLine : string.Empty) +
+                "Content-Length: " + responseText.Length + NewLine +
+                NewLine + responseText;
 
             byte[] responsebytes = Encoding.UTF8.GetBytes(response);
 
