@@ -349,3 +349,4 @@ D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWe
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.MvcApplicationPartsAssemblyInfo.cs
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\_FullNamePartial.cshtml.g.cs

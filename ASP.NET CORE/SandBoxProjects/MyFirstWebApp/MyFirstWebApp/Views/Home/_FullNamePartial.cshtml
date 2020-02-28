@@ -1,0 +1,8 @@
+﻿@using MyFirstWebApp.ViewModels.Home
+@model FullNamePartialViewModel
+
+@{
+    string fullName = Model.FirstName + Model.LastName;
+}
+
+<h1>@fullName</h1>

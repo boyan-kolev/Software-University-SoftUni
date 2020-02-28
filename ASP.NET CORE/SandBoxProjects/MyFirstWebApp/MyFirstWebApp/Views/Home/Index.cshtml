@@ -1,6 +1,11 @@
-﻿@{
+﻿@using MyFirstWebApp.ViewModels.Home
+@{
     ViewData["Title"] = "Home Page";
+
+    var FullNameViewModel = new FullNamePartialViewModel("Boyan", "Kolev");
 }
+
+<partial name="_FullNamePartial", model="FullNameViewModel" />
 
 <div>
     @for (int i = 0; i < 20; i++)
@@ -10,7 +15,7 @@
     }
 </div>
 
-<span>fhfgjhfghjgf</span>
+<h1 year-of-birthdate="1996"></h1>
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
