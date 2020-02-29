@@ -9,6 +9,8 @@
 </head>
 <body>
     <header>
+
+
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MyFirstWebApp</a>
@@ -31,6 +33,9 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
+
+            <vc:nav-bar years="5"></vc:nav-bar>
+
             @RenderBody()
             @RenderSection("NewForm", false)
         </main>

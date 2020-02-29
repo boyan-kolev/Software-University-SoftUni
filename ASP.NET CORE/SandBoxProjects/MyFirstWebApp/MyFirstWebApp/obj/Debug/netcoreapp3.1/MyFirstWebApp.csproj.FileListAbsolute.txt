@@ -9,7 +9,6 @@ D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWe
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp3.1\MyFirstWebApp.pdb
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp3.1\MyFirstWebApp.Views.dll
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\bin\Debug\netcoreapp3.1\MyFirstWebApp.Views.pdb
-D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.csprojAssemblyReference.cache
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstWebApp.StaticWebAssets.Manifest.cache
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\staticwebassets\MyFirstWebApp.StaticWebAssets.xml
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.RazorAssemblyInfo.cache
@@ -350,3 +349,4 @@ D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWe
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.MvcApplicationPartsAssemblyInfo.cs
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.MvcApplicationPartsAssemblyInfo.cache
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\_FullNamePartial.cshtml.g.cs
+D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\Default.cshtml.g.cs

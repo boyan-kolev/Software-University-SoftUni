@@ -1,0 +1,18 @@
+﻿@using MyFirstWebApp.ViewModels.NavBar
+@model NavBarViewModel
+
+<table>
+    <tr class="alert-danger">
+        @for (int i = 0; i < Model.Years.Count(); i++)
+        {
+            <th align="center">@(i + 1)</th>
+        }
+    </tr>
+
+    <tr>
+        @foreach (var year in Model.Years)
+        {
+            <td align="center" rolspan="50">@year</td>
+        }
+    </tr>
+</table>
