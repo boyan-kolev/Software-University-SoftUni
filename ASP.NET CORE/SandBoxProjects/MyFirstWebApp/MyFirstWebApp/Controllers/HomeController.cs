@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using MyFirstWebApp.Filters;
 using MyFirstWebApp.Models;
 
 namespace MyFirstWebApp.Controllers
@@ -18,11 +19,14 @@ namespace MyFirstWebApp.Controllers
             _logger = logger;
         }
 
+
+        [TypeFilter(typeof(AddHeaderActionFilterAttribute))]
         public IActionResult Index()
         {
             return View();
         }
 
+        [ResultFilter]
         public IActionResult Privacy()
         {
             return View();

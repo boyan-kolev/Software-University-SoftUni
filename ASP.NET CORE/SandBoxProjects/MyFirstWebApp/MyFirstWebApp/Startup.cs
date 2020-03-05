@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using MyFirstWebApp.Filters;
 using MyFirstWebApp.Middlewares;
 using MyFirstWebApp.Services;
 
