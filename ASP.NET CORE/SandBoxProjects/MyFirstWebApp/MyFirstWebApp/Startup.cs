@@ -29,6 +29,7 @@ namespace MyFirstWebApp
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             services.AddTransient<IYearsService, YearsService>();
+            services.AddTransient<IPositionService, PositionService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
