@@ -1,0 +1,20 @@
+﻿@using MyFirstWebApp.ViewModels.Home
+@model FileUploadInputModel
+
+<h1>Uploud the file</h1>
+
+<form class="col-md-4" asp-action="TestFile" asp-controller="Home" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="@Model.someFile"></label>
+        <input asp-for="@Model.someFile" class="form-control" />
+        <span asp-validation-for="@Model.someFile" class="text-danger"></span>
+    </div>
+
+    <hr />
+
+    <div class="form-group">
+        <label asp-for="@Model.someFile"></label>
+        <input type="submit" value="Качване" class="form-control" />
+        <span asp-validation-for="@Model.someFile" class="text-danger"></span>
+    </div>
+</form>

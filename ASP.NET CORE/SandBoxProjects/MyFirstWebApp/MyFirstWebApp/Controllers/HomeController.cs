@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -31,6 +32,28 @@ namespace MyFirstWebApp.Controllers
             };
 
             return this.View(model);
+        }
+
+        public IActionResult TestFile()
+        {
+            return this.View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> FileUploud(FileUploadInputModel input)
+        {
+            var filePath = "testFile.txt";
+            using (var fileStream = new FileStream(filePath, FileMode.Create))
+            {
+                await input.someFile.CopyToAsync(fileStream);
+            }
+
+            return this.Redirect("/");
+        }
+
+        public IActionResult DownloadFile()
+        {
+            return this.PhysicalFile(@"D:\ReceiptBook.docx", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "ReceiptBook");
         }
 
         [HttpPost]

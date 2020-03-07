@@ -352,3 +352,4 @@ D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWe
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavBar\Default.cshtml.g.cs
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\MyFirstWebApp.csprojAssemblyReference.cache
 D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Test.cshtml.g.cs
+D:\GitHubRepo\Software-University-SoftUni\ASP.NET CORE\SandBoxProjects\MyFirstWebApp\MyFirstWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\FileUpload.cshtml.g.cs
