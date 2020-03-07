@@ -24,15 +24,6 @@ namespace MyFirstWebApp.Controllers
             this.positionService = positionService;
         }
 
-        public IActionResult Test()
-        {
-            var model = new TestInputModel()
-            {
-                Positions = this.positionService.GetAll()
-            };
-
-            return this.View(model);
-        }
 
         public IActionResult TestFile()
         {
@@ -54,6 +45,16 @@ namespace MyFirstWebApp.Controllers
         public IActionResult DownloadFile()
         {
             return this.PhysicalFile(@"D:\ReceiptBook.docx", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "ReceiptBook");
+        }
+
+        public IActionResult Test()
+        {
+            var model = new TestInputModel()
+            {
+                Positions = this.positionService.GetAll()
+            };
+
+            return this.View(model);
         }
 
         [HttpPost]

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using MyFirstWebApp.ModelBinders;
 using MyFirstWebApp.ValidationAttributes;
 using MyFirstWebApp.ViewModels.Home.Enums;
 using System;
@@ -48,5 +50,9 @@ namespace MyFirstWebApp.ViewModels.Home
         [Display(Name = "Позиция")]
         [Required]
         public IEnumerable<SelectListItem> Positions { get; set; }
+
+
+        [ModelBinder(typeof(YearModelBinder))]
+        public int Year { get; set; }
     }
 }

@@ -10,6 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MyFirstWebApp.Filters;
 using MyFirstWebApp.Middlewares;
+using MyFirstWebApp.ModelBinders;
 using MyFirstWebApp.Services;
 
 namespace MyFirstWebApp
@@ -26,7 +27,10 @@ namespace MyFirstWebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews().AddRazorRuntimeCompilation();
+            services.AddControllersWithViews(configure => 
+            {
+                configure.ModelBinderProviders.Insert(0, new YearModelBinderProvider());
+            }).AddRazorRuntimeCompilation();
 
             services.AddTransient<IYearsService, YearsService>();
             services.AddTransient<IPositionService, PositionService>();
