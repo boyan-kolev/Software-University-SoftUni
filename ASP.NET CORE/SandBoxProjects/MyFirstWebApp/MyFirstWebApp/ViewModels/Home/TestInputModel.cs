@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using MyFirstWebApp.ValidationAttributes;
 using MyFirstWebApp.ViewModels.Home.Enums;
 using System;
 using System.Collections.Generic;
@@ -26,7 +27,7 @@ namespace MyFirstWebApp.ViewModels.Home
 
         [Display(Name = "Адрес")]
         [Required]
-        //TODO CUSTOM ATTRIBUTE FOR ADDRESS !!!
+        [AddressValidation]
         public string Address { get; set; }
 
 
